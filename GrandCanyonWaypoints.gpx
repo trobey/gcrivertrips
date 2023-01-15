@@ -1,0 +1,2620 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gpx version="1.1" creator="PaddleOn - https://www.paddleon.net"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+ http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <metadata>
+<desc>Colorado River from Lees Ferry to Diamond Creek.  River miles are referenced from Rivermaps Guide to the Colorado River in the Grand Canyon (CMRC miles).  NAD83</desc>
+</metadata>
+<wpt lat="36.101200" lon="-112.090897">
+<name>BOATBEACH</name>
+<cmt>PHANTOM BOAT BEACH</cmt>
+<desc>PHANTOM BOAT BEACH</desc>
+</wpt>
+<wpt lat="36.097372" lon="-112.095509">
+<name>BRIGHTANGL</name>
+<cmt>BRIGHT ANGEL TRAIL</cmt>
+<desc>BRIGHT ANGEL TRAIL</desc>
+</wpt>
+<wpt lat="36.729116" lon="-111.694849">
+<name>BROWNSCOVE</name>
+<cmt>BROWNS COVE AND INSCRIPTION</cmt>
+<desc>BROWNS COVE AND INSCRIPTION</desc>
+</wpt>
+<wpt lat="36.243506" lon="-112.357695">
+<name>C-110MILE</name>
+<cmt>CAMP 110 MILE</cmt>
+<desc>CAMP 110 MILE</desc>
+</wpt>
+<wpt lat="36.202071" lon="-112.456061">
+<name>C-117-6MIL</name>
+<cmt>CAMP 117.6 MILE</cmt>
+<desc>CAMP 117.6 MILE</desc>
+</wpt>
+<wpt lat="36.215726" lon="-112.454044">
+<name>C-118-6MIL</name>
+<cmt>CAMP 118.6 MILE</cmt>
+<desc>CAMP 118.6 MILE</desc>
+</wpt>
+<wpt lat="36.232754" lon="-112.459256">
+<name>C-119-8MIL</name>
+<cmt>CAMP 119.8 MILE</cmt>
+<desc>CAMP 119.8 MILE</desc>
+</wpt>
+<wpt lat="36.726168" lon="-111.699526">
+<name>C-12-4MILE</name>
+<cmt>CAMP 12.4</cmt>
+<desc>CAMP 12.4</desc>
+</wpt>
+<wpt lat="36.239800" lon="-112.475723">
+<name>C-120-9MIL</name>
+<cmt>CAMP 120.9 MILE</cmt>
+<desc>CAMP 120.9 MILE</desc>
+</wpt>
+<wpt lat="36.237642" lon="-112.466468">
+<name>C-120MILE</name>
+<cmt>CAMP 120 MILE</cmt>
+<desc>CAMP 120 MILE</desc>
+</wpt>
+<wpt lat="36.241314" lon="-112.484565">
+<name>C-121-4MIL</name>
+<cmt>CAMP 121.4 MILE</cmt>
+<desc>CAMP 121.4 MILE</desc>
+</wpt>
+<wpt lat="36.243298" lon="-112.498891">
+<name>C-122-2MIL</name>
+<cmt>CAMP 122.2 MILE</cmt>
+<desc>CAMP 122.2 MILE</desc>
+</wpt>
+<wpt lat="36.244158" lon="-112.507989">
+<name>C-122MILE</name>
+<cmt>CAMP 122 MILE</cmt>
+<desc>CAMP 122 MILE</desc>
+</wpt>
+<wpt lat="36.383247" lon="-112.495464">
+<name>C-136-1MIL</name>
+<cmt>CAMP 136.1 MILE</cmt>
+<desc>CAMP 136.1 MILE</desc>
+</wpt>
+<wpt lat="36.399372" lon="-112.540286">
+<name>C-138-9MIL</name>
+<cmt>CAMP 138.9 MILE</cmt>
+<desc>CAMP 138.9 MILE</desc>
+</wpt>
+<wpt lat="36.399653" lon="-112.543637">
+<name>C-139-1MIL</name>
+<cmt>CAMP 139.1 MILE</cmt>
+<desc>CAMP 139.1 MILE</desc>
+</wpt>
+<wpt lat="36.721646" lon="-111.708130">
+<name>C-13MILE</name>
+<cmt>CAMP 13 MILE</cmt>
+<desc>CAMP 13 MILE</desc>
+</wpt>
+<wpt lat="36.301683" lon="-112.787019">
+<name>C-158-7MIL</name>
+<cmt>CAMP 158.7 MILE</cmt>
+<desc>CAMP 158.7 MILE</desc>
+</wpt>
+<wpt lat="36.284649" lon="-112.802397">
+<name>C-160-5MIL</name>
+<cmt>CAMP 160.5 MILE</cmt>
+<desc>CAMP 160.5 MILE</desc>
+</wpt>
+<wpt lat="36.288887" lon="-112.815455">
+<name>C-161-3MIL</name>
+<cmt>CAMP 161.3 MILE</cmt>
+<desc>CAMP 161.3 MILE</desc>
+</wpt>
+<wpt lat="36.254031" lon="-112.905152">
+<name>C-167-7MIL</name>
+<cmt>CAMP 167.7 MILE</cmt>
+<desc>CAMP 167.7 MILE</desc>
+</wpt>
+<wpt lat="36.231713" lon="-112.978398">
+<name>C-172-6MIL</name>
+<cmt>CAMP 172.6 MILE</cmt>
+<desc>CAMP 172.6 MILE</desc>
+</wpt>
+<wpt lat="36.234181" lon="-112.992613">
+<name>C-173-5MIL</name>
+<cmt>CAMP 173.5 MILE</cmt>
+<desc>CAMP 173.5 MILE</desc>
+</wpt>
+<wpt lat="36.168846" lon="-113.128807">
+<name>C-183-1MIL</name>
+<cmt>CAMP 183.1 MILE</cmt>
+<desc>CAMP 183.1 MILE</desc>
+</wpt>
+<wpt lat="36.174856" lon="-113.155652">
+<name>C-184-9MIL</name>
+<cmt>CAMP 184.9</cmt>
+<desc>CAMP 184.9</desc>
+</wpt>
+<wpt lat="36.164117" lon="-113.171276">
+<name>C-185MILE</name>
+<cmt>CAMP 185 MILE</cmt>
+<desc>CAMP 185 MILE</desc>
+</wpt>
+<wpt lat="36.160658" lon="-113.175138">
+<name>C-186-4MIL</name>
+<cmt>CAMP 186.4 MILE</cmt>
+<desc>CAMP 186.4 MILE</desc>
+</wpt>
+<wpt lat="36.159867" lon="-113.176983">
+<name>C-186-6MIL</name>
+<cmt>CAMP 186.6 MILE</cmt>
+<desc>CAMP 186.6 MILE</desc>
+</wpt>
+<wpt lat="36.133294" lon="-113.204606">
+<name>C-189-3MIL</name>
+<cmt>CAMP 189.3 MILE</cmt>
+<desc>CAMP 189.3 MILE</desc>
+</wpt>
+<wpt lat="36.654992" lon="-111.746275">
+<name>C-18LEDGES</name>
+<cmt>CAMP 18MILE LEDGES</cmt>
+<desc>CAMP 18MILE LEDGES</desc>
+</wpt>
+<wpt lat="36.650334" lon="-111.758761">
+<name>C-19-2MILE</name>
+<cmt>CAMP 19.1 MILE</cmt>
+<desc>CAMP 19.1 MILE</desc>
+</wpt>
+<wpt lat="36.648378" lon="-111.760218">
+<name>C-19-4MILE</name>
+<cmt>CAMP 19.4 MILE</cmt>
+<desc>CAMP 19.4 MILE</desc>
+</wpt>
+<wpt lat="36.121672" lon="-113.201348">
+<name>C-190-1MIL</name>
+<cmt>CAMP 190.1 MILE</cmt>
+<desc>CAMP 190.1 MILE</desc>
+</wpt>
+<wpt lat="36.114682" lon="-113.205018">
+<name>C-190-7MIL</name>
+<cmt>CAMP 190.7 MILE</cmt>
+<desc>CAMP 190.7 MILE</desc>
+</wpt>
+<wpt lat="36.091745" lon="-113.224856">
+<name>C-192-8MIL</name>
+<cmt>CAMP 192.8 MILE</cmt>
+<desc>CAMP 192.8 MILE</desc>
+</wpt>
+<wpt lat="36.089535" lon="-113.233189">
+<name>C-193-3MIL</name>
+<cmt>CAMP 193.3 MILE</cmt>
+<desc>CAMP 193.3 MILE</desc>
+</wpt>
+<wpt lat="36.089400" lon="-113.259616">
+<name>C-194MILE</name>
+<cmt>CAMP 194 MILE</cmt>
+<desc>CAMP 194 MILE</desc>
+</wpt>
+<wpt lat="36.066745" lon="-113.331752">
+<name>C-200-9MIL</name>
+<cmt>CAMP 200.9 MILE</cmt>
+<desc>CAMP 200.9 MILE</desc>
+</wpt>
+<wpt lat="36.059864" lon="-113.340741">
+<name>C-201-6MIL</name>
+<cmt>CAMP 201.6 MILE</cmt>
+<desc>CAMP 201.6 MILE</desc>
+</wpt>
+<wpt lat="36.052658" lon="-113.349718">
+<name>C-202MILE</name>
+<cmt>CAMP 202 MILE</cmt>
+<desc>CAMP 202 MILE</desc>
+</wpt>
+<wpt lat="36.044459" lon="-113.354136">
+<name>C-203MILE</name>
+<cmt>CAMP 203 MILE</cmt>
+<desc>CAMP 203 MILE</desc>
+</wpt>
+<wpt lat="36.006632" lon="-113.341562">
+<name>C-205MILE</name>
+<cmt>CAMP 205 MILE</cmt>
+<desc>CAMP 205 MILE</desc>
+</wpt>
+<wpt lat="35.959609" lon="-113.317821">
+<name>C-209-8MIL</name>
+<cmt>CAMP 209.8 MILE</cmt>
+<desc>CAMP 209.8 MILE</desc>
+</wpt>
+<wpt lat="36.638097" lon="-111.760788">
+<name>C-20MILE</name>
+<cmt>CAMP 20MILE</cmt>
+<desc>CAMP 20MILE</desc>
+</wpt>
+<wpt lat="36.617309" lon="-111.757900">
+<name>C-21-7MILE</name>
+<cmt>CAMP 21.7 MILE</cmt>
+<desc>CAMP 21.7 MILE</desc>
+</wpt>
+<wpt lat="35.955491" lon="-113.323820">
+<name>C-210-2MIL</name>
+<cmt>CAMP 210.2 MILE</cmt>
+<desc>CAMP 210.2 MILE</desc>
+</wpt>
+<wpt lat="35.936552" lon="-113.324329">
+<name>C-211-7MIL</name>
+<cmt>CAMP 211.7 MILE</cmt>
+<desc>CAMP 211.7 MILE</desc>
+</wpt>
+<wpt lat="35.901586" lon="-113.323971">
+<name>C-214MILE</name>
+<cmt>CAMP 214 MILE</cmt>
+<desc>CAMP 214 MILE</desc>
+</wpt>
+<wpt lat="35.869804" lon="-113.311790">
+<name>C-217-2MIL</name>
+<cmt>CAMP 217.2 MILE</cmt>
+<desc>CAMP 217.2 MILE</desc>
+</wpt>
+<wpt lat="35.858649" lon="-113.312529">
+<name>C-218MILE</name>
+<cmt>CAMP 218 MILE</cmt>
+<desc>CAMP 218 MILE</desc>
+</wpt>
+<wpt lat="35.814636" lon="-113.330640">
+<name>C-221MILE</name>
+<cmt>CAMP 221 MILE</cmt>
+<desc>CAMP 221 MILE</desc>
+</wpt>
+<wpt lat="35.805300" lon="-113.332359">
+<name>C-222MILE</name>
+<cmt>CAMP 222 MILE</cmt>
+<desc>CAMP 222 MILE</desc>
+</wpt>
+<wpt lat="35.792842" lon="-113.338899">
+<name>C-223-2MIL</name>
+<cmt>CAMP 223.2 MILE</cmt>
+<desc>CAMP 223.2 MILE</desc>
+</wpt>
+<wpt lat="35.775493" lon="-113.357681">
+<name>C-224-9MIL</name>
+<cmt>CAMP 224.9 MILE</cmt>
+<desc>CAMP 224.9 MILE</desc>
+</wpt>
+<wpt lat="35.785832" lon="-113.343384">
+<name>C-224MILE</name>
+<cmt>CAMP 224 MILE</cmt>
+<desc>CAMP 224 MILE</desc>
+</wpt>
+<wpt lat="36.613076" lon="-111.760140">
+<name>C-22MILE</name>
+<cmt>CAMP 22 MILE</cmt>
+<desc>CAMP 22 MILE</desc>
+</wpt>
+<wpt lat="36.582003" lon="-111.786394">
+<name>C-24-5MILE</name>
+<cmt>CAMP 24.5MILE</cmt>
+<desc>CAMP 24.5MILE</desc>
+</wpt>
+<wpt lat="36.384355" lon="-111.855264">
+<name>C-44-9MILE</name>
+<cmt>CAMP 44.9MILE</cmt>
+<desc>CAMP 44.9MILE</desc>
+</wpt>
+<wpt lat="36.319869" lon="-111.861644">
+<name>C-51-5MILE</name>
+<cmt>CAMP 51.5 MILE</cmt>
+<desc>CAMP 51.5 MILE</desc>
+</wpt>
+<wpt lat="36.316938" lon="-111.862949">
+<name>C-51-7MILE</name>
+<cmt>CAMP 51.7 MILE</cmt>
+<desc>CAMP 51.7 MILE</desc>
+</wpt>
+<wpt lat="36.202226" lon="-111.801043">
+<name>C-61-1MILE</name>
+<cmt>CAMP 61.1 MILE</cmt>
+<desc>CAMP 61.1 MILE</desc>
+</wpt>
+<wpt lat="36.107350" lon="-111.827276">
+<name>C-68MILE</name>
+<cmt>CAMP SIXTYEIGHT MILE</cmt>
+<desc>CAMP SIXTYEIGHT MILE</desc>
+</wpt>
+<wpt lat="36.106630" lon="-112.146654">
+<name>C-91MILE</name>
+<cmt>CAMP 91 MILE CREEK</cmt>
+<desc>CAMP 91 MILE CREEK</desc>
+</wpt>
+<wpt lat="36.097902" lon="-112.198337">
+<name>C-94MILE</name>
+<cmt>CAMP 94 MILE CANYON</cmt>
+<desc>CAMP 94 MILE CANYON</desc>
+</wpt>
+<wpt lat="36.207811" lon="-113.055209">
+<name>C-AANVIL</name>
+<cmt>CAMP ABOVE ANVIL</cmt>
+<desc>CAMP ABOVE ANVIL</desc>
+</wpt>
+<wpt lat="36.195524" lon="-111.800173">
+<name>C-ABOVELCR</name>
+<cmt>CAMP ABOVE LCR</cmt>
+<desc>CAMP ABOVE LCR</desc>
+</wpt>
+<wpt lat="36.387423" lon="-112.507451">
+<name>C-ADEERCRK</name>
+<cmt>CAMP ACROSS DEER CREEK</cmt>
+<desc>CAMP ACROSS DEER CREEK</desc>
+</wpt>
+<wpt lat="35.769643" lon="-113.370957">
+<name>C-ADIAMOND</name>
+<cmt>CAMP LAST CHANCE ABOVE DIAMOND</cmt>
+<desc>CAMP LAST CHANCE ABOVE DIAMOND</desc>
+</wpt>
+<wpt lat="36.126260" lon="-111.819962">
+<name>C-AESPEJO</name>
+<cmt>CAMP ABOVE ESPEJO</cmt>
+<desc>CAMP ABOVE ESPEJO</desc>
+</wpt>
+<wpt lat="36.266053" lon="-112.530094">
+<name>C-AFOSSIL</name>
+<cmt>CAMP ABOVE FOSSIL</cmt>
+<desc>CAMP ABOVE FOSSIL</desc>
+</wpt>
+<wpt lat="36.391136" lon="-112.625752">
+<name>C-AKANAB</name>
+<cmt>CAMP ABOVE KANAB</cmt>
+<desc>CAMP ABOVE KANAB</desc>
+</wpt>
+<wpt lat="36.198549" lon="-113.077921">
+<name>C-ALAVA</name>
+<cmt>CAMP ABOVE LAVA</cmt>
+<desc>CAMP ABOVE LAVA</desc>
+</wpt>
+<wpt lat="36.433885" lon="-111.857503">
+<name>C-AMARTHAS</name>
+<cmt>CAMP ABOVE MARTHAS</cmt>
+<desc>CAMP ABOVE MARTHAS</desc>
+</wpt>
+<wpt lat="36.397591" lon="-111.854918">
+<name>C-ANASAZI</name>
+<cmt>CAMP ANASAZI BRIDGE</cmt>
+<desc>CAMP ANASAZI BRIDGE</desc>
+</wpt>
+<wpt lat="36.373760" lon="-112.649155">
+<name>C-AOLO</name>
+<cmt>CAMP ABOVE OLO</cmt>
+<desc>CAMP ABOVE OLO</desc>
+</wpt>
+<wpt lat="36.372500" lon="-112.475283">
+<name>C-AOWLEYES</name>
+<cmt>CAMP ABOVE OWL EYES</cmt>
+<desc>CAMP ABOVE OWL EYES</desc>
+</wpt>
+<wpt lat="36.101057" lon="-112.163636">
+<name>C-ASALTCRK</name>
+<cmt>CAMP ABOVE SALT CREEK</cmt>
+<desc>CAMP ABOVE SALT CREEK</desc>
+</wpt>
+<wpt lat="36.233132" lon="-111.822100">
+<name>C-AWATUBI</name>
+<cmt>CAMP AWATUBI</cmt>
+<desc>CAMP AWATUBI</desc>
+</wpt>
+<wpt lat="36.391682" lon="-112.524213">
+<name>C-BACKEDDY</name>
+<cmt>CAMP BACKEDDY</cmt>
+<desc>CAMP BACKEDDY</desc>
+</wpt>
+<wpt lat="36.772527" lon="-111.657321">
+<name>C-BADGER</name>
+<cmt>CAMP BADGER</cmt>
+<desc>CAMP BADGER</desc>
+</wpt>
+<wpt lat="36.228191" lon="-111.816974">
+<name>C-BAWATUBL</name>
+<cmt>CAMP BELOW AWATUBI LEFT</cmt>
+<desc>CAMP BELOW AWATUBI LEFT</desc>
+</wpt>
+<wpt lat="36.224412" lon="-111.815867">
+<name>C-BAWATUBR</name>
+<cmt>CAMP BELOW AWATUBI RIGHT</cmt>
+<desc>CAMP BELOW AWATUBI RIGHT</desc>
+</wpt>
+<wpt lat="36.336358" lon="-112.455660">
+<name>C-BBEDROCK</name>
+<cmt>CAMP BELOW BEDROCK</cmt>
+<desc>CAMP BELOW BEDROCK</desc>
+</wpt>
+<wpt lat="36.168693" lon="-113.131338">
+<name>C-BCHEVRON</name>
+<cmt>CAMP BELOW CHEVRON</cmt>
+<desc>CAMP BELOW CHEVRON</desc>
+</wpt>
+<wpt lat="36.082948" lon="-112.038711">
+<name>C-BCLEARCR</name>
+<cmt>CAMP BELOW CLEAR CREEK</cmt>
+<desc>CAMP BELOW CLEAR CREEK</desc>
+</wpt>
+<wpt lat="36.762543" lon="-111.663152">
+<name>C-BELOJASS</name>
+<cmt>CAMP BELOW JACKASS</cmt>
+<desc>CAMP BELOW JACKASS</desc>
+</wpt>
+<wpt lat="36.190944" lon="-111.805599">
+<name>C-BELOWLCR</name>
+<cmt>CAMP BELOW LCR</cmt>
+<desc>CAMP BELOW LCR</desc>
+</wpt>
+<wpt lat="36.248357" lon="-112.520935">
+<name>C-BFORSTER</name>
+<cmt>CAMP BELOW FORSTER</cmt>
+<desc>CAMP BELOW FORSTER</desc>
+</wpt>
+<wpt lat="36.277349" lon="-112.518023">
+<name>C-BFOSSIL</name>
+<cmt>CAMP BELOW FOSSIL</cmt>
+<desc>CAMP BELOW FOSSIL</desc>
+</wpt>
+<wpt lat="36.095142" lon="-113.293276">
+<name>C-BFROGY</name>
+<cmt>CAMP BELOW FROGY</cmt>
+<desc>CAMP BELOW FROGY</desc>
+</wpt>
+<wpt lat="36.068083" lon="-111.882165">
+<name>C-BGRANARY</name>
+<cmt>CAMP BELOW GRANARY</cmt>
+<desc>CAMP BELOW GRANARY</desc>
+</wpt>
+<wpt lat="35.979202" lon="-113.331923">
+<name>C-BIGBAR</name>
+<cmt>CAMP BIG BAR</cmt>
+<desc>CAMP BIG BAR</desc>
+</wpt>
+<wpt lat="35.946199" lon="-113.328869">
+<name>C-BIGCEDAR</name>
+<cmt>CAMP BIG CEDAR</cmt>
+<desc>CAMP BIG CEDAR</desc>
+</wpt>
+<wpt lat="36.228031" lon="-112.456275">
+<name>C-BIGDUNE</name>
+<cmt>CAMP BIG DUNE</cmt>
+<desc>CAMP BIG DUNE</desc>
+</wpt>
+<wpt lat="36.388535" lon="-112.641886">
+<name>C-BKANAB</name>
+<cmt>CAMP BELOW KANAB</cmt>
+<desc>CAMP BELOW KANAB</desc>
+</wpt>
+<wpt lat="36.254305" lon="-111.826685">
+<name>C-BKWAGUNT</name>
+<cmt>CAMP BELOW KWAGUNT</cmt>
+<desc>CAMP BELOW KWAGUNT</desc>
+</wpt>
+<wpt lat="36.195213" lon="-113.089354">
+<name>C-BLLAVA</name>
+<cmt>CAMP BELOW LOWER LAVA</cmt>
+<desc>CAMP BELOW LOWER LAVA</desc>
+</wpt>
+<wpt lat="36.341249" lon="-112.681851">
+<name>C-BMATKAT</name>
+<cmt>CAMP BELOW MATKAT</cmt>
+<desc>CAMP BELOW MATKAT</desc>
+</wpt>
+<wpt lat="36.253777" lon="-112.900738">
+<name>C-BNATIONL</name>
+<cmt>CAMP BELOW NATIONAL</cmt>
+<desc>CAMP BELOW NATIONAL</desc>
+</wpt>
+<wpt lat="36.047862" lon="-111.905120">
+<name>C-BNEVILLS</name>
+<cmt>CAMP BELOW NEVILLS</cmt>
+<desc>CAMP BELOW NEVILLS</desc>
+</wpt>
+<wpt lat="36.167941" lon="-113.131051">
+<name>C-BOLDHELI</name>
+<cmt>CAMP BELOW OLD HELIPAD</cmt>
+<desc>CAMP BELOW OLD HELIPAD</desc>
+</wpt>
+<wpt lat="36.117078" lon="-112.231205">
+<name>C-BOUCHER</name>
+<cmt>CAMP BOUCHER</cmt>
+<desc>CAMP BOUCHER</desc>
+</wpt>
+<wpt lat="36.097924" lon="-112.117734">
+<name>C-BPIPECRK</name>
+<cmt>CAMP BELOW PIPE CREEK</cmt>
+<desc>CAMP BELOW PIPE CREEK</desc>
+</wpt>
+<wpt lat="35.910032" lon="-113.329093">
+<name>C-BPUMPKIN</name>
+<cmt>CAMP BELOW PUMPKIN SPRING</cmt>
+<desc>CAMP BELOW PUMPKIN SPRING</desc>
+</wpt>
+<wpt lat="36.227420" lon="-113.036498">
+<name>C-BREDSLID</name>
+<cmt>CAMP BELOW RED SLIDE</cmt>
+<desc>CAMP BELOW RED SLIDE</desc>
+</wpt>
+<wpt lat="36.485476" lon="-111.843826">
+<name>C-BREDWALL</name>
+<cmt>CAMP BELOW REDWALL</cmt>
+<desc>CAMP BELOW REDWALL</desc>
+</wpt>
+<wpt lat="36.728898" lon="-111.695116">
+<name>C-BROWNS</name>
+<cmt>CAMP BROWNS</cmt>
+<desc>CAMP BROWNS</desc>
+</wpt>
+<wpt lat="36.101857" lon="-111.839216">
+<name>C-BTANNER</name>
+<cmt>CAMP BELOW TANNER</cmt>
+<desc>CAMP BELOW TANNER</desc>
+</wpt>
+<wpt lat="36.371465" lon="-112.471518">
+<name>C-BTAPEATS</name>
+<cmt>CAMP BELOW TAPEATS</cmt>
+<desc>CAMP BELOW TAPEATS</desc>
+</wpt>
+<wpt lat="36.274784" lon="-112.878761">
+<name>C-BTUCKUP</name>
+<cmt>CAMP BELOW TUCKUP</cmt>
+<desc>CAMP BELOW TUCKUP</desc>
+</wpt>
+<wpt lat="36.107530" lon="-112.223324">
+<name>C-BULLSHST</name>
+<cmt>CAMP BULL SCHIST</cmt>
+<desc>CAMP BULL SCHIST</desc>
+</wpt>
+<wpt lat="36.150952" lon="-111.816217">
+<name>C-CARBON</name>
+<cmt>CAMP CARBON</cmt>
+<desc>CAMP CARBON</desc>
+</wpt>
+<wpt lat="36.086709" lon="-111.864868">
+<name>C-CARDENAS</name>
+<cmt>CAMP CARDENAS</cmt>
+<desc>CAMP CARDENAS</desc>
+</wpt>
+<wpt lat="36.081696" lon="-112.033363">
+<name>C-CLEARCRK</name>
+<cmt>CAMP CLEAR CREEK</cmt>
+<desc>CAMP CLEAR CREEK</desc>
+</wpt>
+<wpt lat="36.180174" lon="-111.814429">
+<name>C-CRASHCNY</name>
+<cmt>CAMP CRASH CANYON</cmt>
+<desc>CAMP CRASH CANYON</desc>
+</wpt>
+<wpt lat="36.337071" lon="-111.861432">
+<name>C-DINOSAUR</name>
+<cmt>CAMP DINOSAUR</cmt>
+<desc>CAMP DINOSAUR</desc>
+</wpt>
+<wpt lat="36.397712" lon="-112.534768">
+<name>C-DORIS</name>
+<cmt>CAMP DORIS</cmt>
+<desc>CAMP DORIS</desc>
+</wpt>
+<wpt lat="36.371331" lon="-111.890571">
+<name>C-DUCKQUAK</name>
+<cmt>CAMP DUCKNQUACK</cmt>
+<desc>CAMP DUCKNQUACK</desc>
+</wpt>
+<wpt lat="36.179794" lon="-112.308646">
+<name>C-EMERALD</name>
+<cmt>CAMP EMERALD</cmt>
+<desc>CAMP EMERALD</desc>
+</wpt>
+<wpt lat="36.387032" lon="-111.848916">
+<name>C-EMINENCE</name>
+<cmt>CAMP EMINENCE</cmt>
+<desc>CAMP EMINENCE</desc>
+</wpt>
+<wpt lat="36.254153" lon="-112.527324">
+<name>C-ENFILADE</name>
+<cmt>CAMP ENFILADE</cmt>
+<desc>CAMP ENFILADE</desc>
+</wpt>
+<wpt lat="36.120859" lon="-111.824128">
+<name>C-ESPEJO</name>
+<cmt>CAMP ESPEJO</cmt>
+<desc>CAMP ESPEJO</desc>
+</wpt>
+<wpt lat="36.097569" lon="-113.219956">
+<name>C-FATCITY</name>
+<cmt>CAMP FAT CITY</cmt>
+<desc>CAMP FAT CITY</desc>
+</wpt>
+<wpt lat="36.518626" lon="-111.847269">
+<name>C-FENCEFLT</name>
+<cmt>CAMP FENCE FAULT</cmt>
+<desc>CAMP FENCE FAULT</desc>
+</wpt>
+<wpt lat="36.258770" lon="-112.919959">
+<name>C-FERNGLEN</name>
+<cmt>CAMP FERN GLEN</cmt>
+<desc>CAMP FERN GLEN</desc>
+</wpt>
+<wpt lat="36.303102" lon="-112.778900">
+<name>C-FIRSTCHA</name>
+<cmt>CAMP FIRST CHANCE</cmt>
+<desc>CAMP FIRST CHANCE</desc>
+</wpt>
+<wpt lat="36.400713" lon="-112.553694">
+<name>C-FISHTAIL</name>
+<cmt>CAMP FISHTAIL</cmt>
+<desc>CAMP FISHTAIL</desc>
+</wpt>
+<wpt lat="36.391373" lon="-112.523003">
+<name>C-FOOTBALL</name>
+<cmt>CAMP FOOTBALL FIELD</cmt>
+<desc>CAMP FOOTBALL FIELD</desc>
+</wpt>
+<wpt lat="36.270761" lon="-112.525644">
+<name>C-FOSSIL</name>
+<cmt>CAMP FOSSIL</cmt>
+<desc>CAMP FOSSIL</desc>
+</wpt>
+<wpt lat="36.096894" lon="-113.292128">
+<name>C-FROGY</name>
+<cmt>CAMP FROGY FAULT</cmt>
+<desc>CAMP FROGY FAULT</desc>
+</wpt>
+<wpt lat="36.343522" lon="-112.453654">
+<name>C-GALLOWAY</name>
+<cmt>CAMP GALLOWAY</cmt>
+<desc>CAMP GALLOWAY</desc>
+</wpt>
+<wpt lat="36.097627" lon="-112.182514">
+<name>C-GRANITE</name>
+<cmt>CAMP GRANITE</cmt>
+<desc>CAMP GRANITE</desc>
+</wpt>
+<wpt lat="35.969902" lon="-113.316924">
+<name>C-GRANPARK</name>
+<cmt>CAMP GRANITE PARK</cmt>
+<desc>CAMP GRANITE PARK</desc>
+</wpt>
+<wpt lat="36.054672" lon="-111.996727">
+<name>C-GRAPEVIN</name>
+<cmt>CAMP GRAPEVINE</cmt>
+<desc>CAMP GRAPEVINE</desc>
+</wpt>
+<wpt lat="36.044507" lon="-111.919468">
+<name>C-HANCE</name>
+<cmt>CAMP HANCE</cmt>
+<desc>CAMP HANCE</desc>
+</wpt>
+<wpt lat="36.392888" lon="-111.846972">
+<name>C-HARDING</name>
+<cmt>CAMP PREDIDENT HARDING</cmt>
+<desc>CAMP PREDIDENT HARDING</desc>
+</wpt>
+<wpt lat="36.099415" lon="-112.209290">
+<name>C-HERMIT</name>
+<cmt>CAMP HERMIT</cmt>
+<desc>CAMP HERMIT</desc>
+</wpt>
+<wpt lat="36.212236" lon="-113.049452">
+<name>C-HONGA</name>
+<cmt>CAMP HONGA SPRINGS</cmt>
+<desc>CAMP HONGA SPRINGS</desc>
+</wpt>
+<wpt lat="36.226940" lon="-112.336580">
+<name>C-HOTAUTA</name>
+<cmt>CAMP HOTAUTA</cmt>
+<desc>CAMP HOTAUTA</desc>
+</wpt>
+<wpt lat="36.673128" lon="-111.740855">
+<name>C-HOUSEROK</name>
+<cmt>CAMP HOUSE ROCK</cmt>
+<desc>CAMP HOUSE ROCK</desc>
+</wpt>
+<wpt lat="36.088195" lon="-113.254651">
+<name>C-HUALAPAI</name>
+<cmt>CAMP HUALAPAI ACRES</cmt>
+<desc>CAMP HUALAPAI ACRES</desc>
+</wpt>
+<wpt lat="35.989076" lon="-113.341442">
+<name>C-INDIANCY</name>
+<cmt>CAMP INDIAN CANYON</cmt>
+<desc>CAMP INDIAN CANYON</desc>
+</wpt>
+<wpt lat="36.604608" lon="-111.764887">
+<name>C-INDIANDK</name>
+<cmt>CAMP INDIAN DICK</cmt>
+<desc>CAMP INDIAN DICK</desc>
+</wpt>
+<wpt lat="36.772103" lon="-111.655839">
+<name>C-JACKASS</name>
+<cmt>CAMP JACKASS</cmt>
+<desc>CAMP JACKASS</desc>
+</wpt>
+<wpt lat="36.197838" lon="-113.081505">
+<name>C-JALAVA</name>
+<cmt>CAMP JUST ABOVE LAVA</cmt>
+<desc>CAMP JUST ABOVE LAVA</desc>
+</wpt>
+<wpt lat="36.386495" lon="-112.503821">
+<name>C-JUNEBUG</name>
+<cmt>CAMP JUNEBUG</cmt>
+<desc>CAMP JUNEBUG</desc>
+</wpt>
+<wpt lat="36.398699" lon="-112.567035">
+<name>C-KEYHOLE</name>
+<cmt>CAMP KEYHOLE</cmt>
+<desc>CAMP KEYHOLE</desc>
+</wpt>
+<wpt lat="36.261877" lon="-111.826720">
+<name>C-KWAGUNT</name>
+<cmt>CAMP KWAGUNT</cmt>
+<desc>CAMP KWAGUNT</desc>
+</wpt>
+<wpt lat="35.830720" lon="-113.326728">
+<name>C-L220MILE</name>
+<cmt>CAMP LOWER 220 MILE</cmt>
+<desc>CAMP LOWER 220 MILE</desc>
+</wpt>
+<wpt lat="36.396541" lon="-111.850491">
+<name>C-LANASAZI</name>
+<cmt>CAMP LOWER ANASAZI</cmt>
+<desc>CAMP LOWER ANASAZI</desc>
+</wpt>
+<wpt lat="36.321858" lon="-112.741720">
+<name>C-LASTCHAN</name>
+<cmt>CAMP LAST CHANCE</cmt>
+<desc>CAMP LAST CHANCE</desc>
+</wpt>
+<wpt lat="36.139694" lon="-111.817167">
+<name>C-LAVACNY</name>
+<cmt>CAMP LAVA CANYON</cmt>
+<desc>CAMP LAVA CANYON</desc>
+</wpt>
+<wpt lat="36.095358" lon="-111.840347">
+<name>C-LBASALT</name>
+<cmt>CAMP LOWER BASALT</cmt>
+<desc>CAMP LOWER BASALT</desc>
+</wpt>
+<wpt lat="36.238129" lon="-112.345317">
+<name>C-LBASS</name>
+<cmt>CAMP LOWER BASS</cmt>
+<desc>CAMP LOWER BASS</desc>
+</wpt>
+<wpt lat="36.240154" lon="-112.473326">
+<name>C-LBLKTAIL</name>
+<cmt>CAMP LOWER BLACKTAIL</cmt>
+<desc>CAMP LOWER BLACKTAIL</desc>
+</wpt>
+<wpt lat="36.171272" lon="-113.126205">
+<name>C-LCHEVRON</name>
+<cmt>CAMP LOWER CHEVRON</cmt>
+<desc>CAMP LOWER CHEVRON</desc>
+</wpt>
+<wpt lat="36.238349" lon="-113.015017">
+<name>C-LCOVE</name>
+<cmt>CAMP LOWER COVE</cmt>
+<desc>CAMP LOWER COVE</desc>
+</wpt>
+<wpt lat="36.100290" lon="-112.083908">
+<name>C-LCREMATN</name>
+<cmt>CAMP LOWER CREMATION</cmt>
+<desc>CAMP LOWER CREMATION</desc>
+</wpt>
+<wpt lat="36.135972" lon="-112.245282">
+<name>C-LCRYSTAL</name>
+<cmt>CAMP LOWER CRYSTAL</cmt>
+<desc>CAMP LOWER CRYSTAL</desc>
+</wpt>
+<wpt lat="36.345864" lon="-112.724872">
+<name>C-LEDGES</name>
+<cmt>CAMP LEDGES</cmt>
+<desc>CAMP LEDGES</desc>
+</wpt>
+<wpt lat="35.932933" lon="-113.326883">
+<name>C-LFALLCNY</name>
+<cmt>CAMP LOWER FALL CANYON</cmt>
+<desc>CAMP LOWER FALL CANYON</desc>
+</wpt>
+<wpt lat="36.212615" lon="-112.424886">
+<name>C-LGARNET</name>
+<cmt>CAMP LOWER GARNET</cmt>
+<desc>CAMP LOWER GARNET</desc>
+</wpt>
+<wpt lat="36.481997" lon="-111.846334">
+<name>C-LITTLRED</name>
+<cmt>CAMP LITTLE REDWALL</cmt>
+<desc>CAMP LITTLE REDWALL</desc>
+</wpt>
+<wpt lat="36.310442" lon="-111.863679">
+<name>C-LNANKOWP</name>
+<cmt>CAMP LITTLE NANKOWEAP</cmt>
+<desc>CAMP LITTLE NANKOWEAP</desc>
+</wpt>
+<wpt lat="36.294898" lon="-111.858964">
+<name>C-LNANKOWP</name>
+<cmt>CAMP LOWER NANKOWEAP</cmt>
+<desc>CAMP LOWER NANKOWEAP</desc>
+</wpt>
+<wpt lat="36.256247" lon="-112.895055">
+<name>C-LNATIONL</name>
+<cmt>CAMP LOWER NATIONAL</cmt>
+<desc>CAMP LOWER NATIONAL</desc>
+</wpt>
+<wpt lat="36.594507" lon="-111.771227">
+<name>C-LONECEDR</name>
+<cmt>CAMP LONE CEDAR</cmt>
+<desc>CAMP LONE CEDAR</desc>
+</wpt>
+<wpt lat="36.367555" lon="-111.889190">
+<name>C-LSADDLE</name>
+<cmt>CAMP LOWER SADDLE</cmt>
+<desc>CAMP LOWER SADDLE</desc>
+</wpt>
+<wpt lat="36.145312" lon="-112.262502">
+<name>C-LTUNA</name>
+<cmt>CAMP LOWER TUNA</cmt>
+<desc>CAMP LOWER TUNA</desc>
+</wpt>
+<wpt lat="36.142016" lon="-113.202849">
+<name>C-LWHITMOR</name>
+<cmt>CAMP LOWER WHITMORE</cmt>
+<desc>CAMP LOWER WHITMORE</desc>
+</wpt>
+<wpt lat="36.403865" lon="-111.879790">
+<name>C-LWRBUCK</name>
+<cmt>CAMP LOWER BUCK FARM</cmt>
+<desc>CAMP LOWER BUCK FARM</desc>
+</wpt>
+<wpt lat="36.629492" lon="-111.764328">
+<name>C-LWRNCNY</name>
+<cmt>CAMP L NORTH CNY</cmt>
+<desc>CAMP L NORTH CNY</desc>
+</wpt>
+<wpt lat="35.831909" lon="-113.326762">
+<name>C-M220MILE</name>
+<cmt>CAMP MIDDLE 220 MILE</cmt>
+<desc>CAMP MIDDLE 220 MILE</desc>
+</wpt>
+<wpt lat="36.242522" lon="-111.825359">
+<name>C-MALGOSA</name>
+<cmt>CAMP MALGOSA</cmt>
+<desc>CAMP MALGOSA</desc>
+</wpt>
+<wpt lat="36.433193" lon="-111.863520">
+<name>C-MARTHAS</name>
+<cmt>CAMP MARTHAS</cmt>
+<desc>CAMP MARTHAS</desc>
+</wpt>
+<wpt lat="36.341382" lon="-112.680116">
+<name>C-MATKATHOT</name>
+<cmt>CAMP MATKAT HOTEL</cmt>
+<desc>CAMP MATKAT HOTEL</desc>
+</wpt>
+<wpt lat="36.234148" lon="-112.968446">
+<name>C-MOHAWK</name>
+<cmt>CAMP MOHAWK</cmt>
+<desc>CAMP MOHAWK</desc>
+</wpt>
+<wpt lat="36.296617" lon="-111.860587">
+<name>C-NANKOWEP</name>
+<cmt>CAMP NANKOWEAP</cmt>
+<desc>CAMP NANKOWEAP</desc>
+</wpt>
+<wpt lat="36.469887" lon="-111.840309">
+<name>C-NAUTLOID</name>
+<cmt>CAMP NAUTILOID</cmt>
+<desc>CAMP NAUTILOID</desc>
+</wpt>
+<wpt lat="36.049390" lon="-111.903272">
+<name>C-NEVILLS</name>
+<cmt>CAMP NEVILLS</cmt>
+<desc>CAMP NEVILLS</desc>
+</wpt>
+<wpt lat="35.885410" lon="-113.310250">
+<name>C-O3SPRING</name>
+<cmt>CAMP OPPOSITE THREE SPRINGS</cmt>
+<desc>CAMP OPPOSITE THREE SPRINGS</desc>
+</wpt>
+<wpt lat="36.239207" lon="-112.471171">
+<name>C-OBLKTAIL</name>
+<cmt>CAMP OPPOSITE BLACKTAIL</cmt>
+<desc>CAMP OPPOSITE BLACKTAIL</desc>
+</wpt>
+<wpt lat="36.388217" lon="-112.513086">
+<name>C-OCS</name>
+<cmt>CAMP OCS</cmt>
+<desc>CAMP OCS</desc>
+</wpt>
+<wpt lat="36.370724" lon="-112.649626">
+<name>C-OLO</name>
+<cmt>CAMP OLO</cmt>
+<desc>CAMP OLO</desc>
+</wpt>
+<wpt lat="36.241019" lon="-111.823607">
+<name>C-OMALGOSA</name>
+<cmt>CAMP OPPOSITE MALGOSA</cmt>
+<desc>CAMP OPPOSITE MALGOSA</desc>
+</wpt>
+<wpt lat="36.376748" lon="-112.481650">
+<name>C-OWLEYES</name>
+<cmt>CAMP OWL EYES</cmt>
+<desc>CAMP OWL EYES</desc>
+</wpt>
+<wpt lat="36.136782" lon="-111.815937">
+<name>C-PALISADE</name>
+<cmt>CAMP PALISADES CREEK</cmt>
+<desc>CAMP PALISADES CREEK</desc>
+</wpt>
+<wpt lat="36.390854" lon="-112.521253">
+<name>C-PANCHO</name>
+<cmt>CAMP PANCHOS KITCHEN</cmt>
+<desc>CAMP PANCHOS KITCHEN</desc>
+</wpt>
+<wpt lat="36.045570" lon="-111.907758">
+<name>C-PAPAGO</name>
+<cmt>CAMP PAPAGO</cmt>
+<desc>CAMP PAPAGO</desc>
+</wpt>
+<wpt lat="36.093702" lon="-113.323087">
+<name>C-PARASHAT</name>
+<cmt>CAMP PARASHANT</cmt>
+<desc>CAMP PARASHANT</desc>
+</wpt>
+<wpt lat="36.232898" lon="-112.339085">
+<name>C-PARKINS</name>
+<cmt>CAMP PARKINS</cmt>
+<desc>CAMP PARKINS</desc>
+</wpt>
+<wpt lat="35.915560" lon="-113.334042">
+<name>C-PUMPKIN</name>
+<cmt>CAMP PUMPKIN SPRING</cmt>
+<desc>CAMP PUMPKIN SPRING</desc>
+</wpt>
+<wpt lat="36.369037" lon="-112.466657">
+<name>C-RACETRAK</name>
+<cmt>CAMP RACETRACK</cmt>
+<desc>CAMP RACETRACK</desc>
+</wpt>
+<wpt lat="36.282828" lon="-112.503833">
+<name>C-RANDYRCK</name>
+<cmt>CAMP RANDYS ROCK</cmt>
+<desc>CAMP RANDYS ROCK</desc>
+</wpt>
+<wpt lat="36.427614" lon="-111.872026">
+<name>C-REDBUDAL</name>
+<cmt>CAMP REDBUD ALCOVE</cmt>
+<desc>CAMP REDBUD ALCOVE</desc>
+</wpt>
+<wpt lat="36.230407" lon="-112.339309">
+<name>C-ROSSWHEL</name>
+<cmt>CAMP ROSS WHEELER</cmt>
+<desc>CAMP ROSS WHEELER</desc>
+</wpt>
+<wpt lat="36.516136" lon="-111.847644">
+<name>C-SANDPILE</name>
+<cmt>CAMP SANDPILE</cmt>
+<desc>CAMP SANDPILE</desc>
+</wpt>
+<wpt lat="36.502722" lon="-111.857681">
+<name>C-SCANYON</name>
+<cmt>CAMP SOUTH CANYON</cmt>
+<desc>CAMP SOUTH CANYON</desc>
+</wpt>
+<wpt lat="36.108155" lon="-112.225734">
+<name>C-SCHIST</name>
+<cmt>CAMP SCHIST</cmt>
+<desc>CAMP SCHIST</desc>
+</wpt>
+<wpt lat="36.295147" lon="-112.790077">
+<name>C-SECONDCH</name>
+<cmt>CAMP SECOND CHANCE</cmt>
+<desc>CAMP SECOND CHANCE</desc>
+</wpt>
+<wpt lat="36.165432" lon="-112.306273">
+<name>C-SHADYGRV</name>
+<cmt>CAMP NEW SHADY GROVE</cmt>
+<desc>CAMP NEW SHADY GROVE</desc>
+</wpt>
+<wpt lat="36.529422" lon="-111.835054">
+<name>C-SHINUMO</name>
+<cmt>CAMP SHINUMO WASH</cmt>
+<desc>CAMP SHINUMO WASH</desc>
+</wpt>
+<wpt lat="36.800652" lon="-111.644245">
+<name>C-SIXMILE</name>
+<cmt>CAMP SIX MILE</cmt>
+<desc>CAMP SIX MILE</desc>
+</wpt>
+<wpt lat="36.214391" lon="-111.809889">
+<name>C-SIXTYMIL</name>
+<cmt>CAMP SIXTYMILE</cmt>
+<desc>CAMP SIXTYMILE</desc>
+</wpt>
+<wpt lat="36.739504" lon="-111.694271">
+<name>C-SOAPCREK</name>
+<cmt>CAMP SOAP CREEK</cmt>
+<desc>CAMP SOAP CREEK</desc>
+</wpt>
+<wpt lat="36.236939" lon="-112.960994">
+<name>C-STAIRWAY</name>
+<cmt>CAMP STAIRWAY CANYON</cmt>
+<desc>CAMP STAIRWAY CANYON</desc>
+</wpt>
+<wpt lat="36.346865" lon="-112.454518">
+<name>C-STONECRK</name>
+<cmt>CAMP STONE CREEK</cmt>
+<desc>CAMP STONE CREEK</desc>
+</wpt>
+<wpt lat="36.363221" lon="-112.461644">
+<name>C-TALKING</name>
+<cmt>CAMP TALKING HEADS</cmt>
+<desc>CAMP TALKING HEADS</desc>
+</wpt>
+<wpt lat="36.103439" lon="-111.829634">
+<name>C-TANNER</name>
+<cmt>CAMP TANNER</cmt>
+<desc>CAMP TANNER</desc>
+</wpt>
+<wpt lat="36.434576" lon="-111.851620">
+<name>C-TATAHATS</name>
+<cmt>CAMP TATAHATSO</cmt>
+<desc>CAMP TATAHATSO</desc>
+</wpt>
+<wpt lat="36.567778" lon="-111.810523">
+<name>C-TIGERWSH</name>
+<cmt>CAMP ABOVE TIGER WASH</cmt>
+<desc>CAMP ABOVE TIGER WASH</desc>
+</wpt>
+<wpt lat="36.106464" lon="-112.152651">
+<name>C-TRINITY</name>
+<cmt>CAMP TRINITY CREEK</cmt>
+<desc>CAMP TRINITY CREEK</desc>
+</wpt>
+<wpt lat="36.279707" lon="-112.875271">
+<name>C-TUCKUP</name>
+<cmt>CAMP TUCKUP</cmt>
+<desc>CAMP TUCKUP</desc>
+</wpt>
+<wpt lat="36.165677" lon="-113.168785">
+<name>C-U185MILE</name>
+<cmt>CAMP UPPER 185 MILE</cmt>
+<desc>CAMP UPPER 185 MILE</desc>
+</wpt>
+<wpt lat="35.832975" lon="-113.327590">
+<name>C-U220MILE</name>
+<cmt>CAMP UPPER 220 MILE</cmt>
+<desc>CAMP UPPER 220 MILE</desc>
+</wpt>
+<wpt lat="36.240063" lon="-112.471989">
+<name>C-UBLKTAIL</name>
+<cmt>CAMP UPPER BLACKTAIL</cmt>
+<desc>CAMP UPPER BLACKTAIL</desc>
+</wpt>
+<wpt lat="36.172161" lon="-113.124895">
+<name>C-UCHEVRON</name>
+<cmt>CAMP UPPER CHEVRON</cmt>
+<desc>CAMP UPPER CHEVRON</desc>
+</wpt>
+<wpt lat="36.239024" lon="-113.013432">
+<name>C-UCOVE</name>
+<cmt>CAMP UPPER COVE</cmt>
+<desc>CAMP UPPER COVE</desc>
+</wpt>
+<wpt lat="36.100189" lon="-112.083107">
+<name>C-UCREMATN</name>
+<cmt>CAMP UPPER CREMATION</cmt>
+<desc>CAMP UPPER CREMATION</desc>
+</wpt>
+<wpt lat="36.135029" lon="-112.242333">
+<name>C-UCRYSTAL</name>
+<cmt>CAMP UPPER CRYSTAL</cmt>
+<desc>CAMP UPPER CRYSTAL</desc>
+</wpt>
+<wpt lat="35.933703" lon="-113.326241">
+<name>C-UFALLCNY</name>
+<cmt>CAMP UPPER FALL CANYON</cmt>
+<desc>CAMP UPPER FALL CANYON</desc>
+</wpt>
+<wpt lat="36.106281" lon="-113.216735">
+<name>C-UFATCITY</name>
+<cmt>CAMP UPPER FAT CITY</cmt>
+<desc>CAMP UPPER FAT CITY</desc>
+</wpt>
+<wpt lat="36.244404" lon="-112.516985">
+<name>C-UFORSTER</name>
+<cmt>CAMP UPPER FORSTER</cmt>
+<desc>CAMP UPPER FORSTER</desc>
+</wpt>
+<wpt lat="36.215760" lon="-112.424275">
+<name>C-UGARNET</name>
+<cmt>CAMP UPPER GARNET</cmt>
+<desc>CAMP UPPER GARNET</desc>
+</wpt>
+<wpt lat="36.347307" lon="-112.722363">
+<name>C-ULEDGES</name>
+<cmt>CAMP UPPER LEDGES</cmt>
+<desc>CAMP UPPER LEDGES</desc>
+</wpt>
+<wpt lat="36.300748" lon="-111.857825">
+<name>C-UNANKOWE</name>
+<cmt>CAMP UPR NANKOWEAP</cmt>
+<desc>CAMP UPR NANKOWEAP</desc>
+</wpt>
+<wpt lat="36.257353" lon="-112.893479">
+<name>C-UNATIONL</name>
+<cmt>CAMP UPPER NATIONAL</cmt>
+<desc>CAMP UPPER NATIONAL</desc>
+</wpt>
+<wpt lat="36.053235" lon="-111.900385">
+<name>C-UNEVILLS</name>
+<cmt>CAMP UPPER NEVILLS</cmt>
+<desc>CAMP UPPER NEVILLS</desc>
+</wpt>
+<wpt lat="36.081761" lon="-111.875876">
+<name>C-UNKAR</name>
+<cmt>CAMP UNKAR</cmt>
+<desc>CAMP UNKAR</desc>
+</wpt>
+<wpt lat="36.630034" lon="-111.764199">
+<name>C-UPRNCNY</name>
+<cmt>CAMP U NORTH CNY</cmt>
+<desc>CAMP U NORTH CNY</desc>
+</wpt>
+<wpt lat="36.353135" lon="-112.705642">
+<name>C-UPSETHOT</name>
+<cmt>CAMP UPSET HOTEL</cmt>
+<desc>CAMP UPSET HOTEL</desc>
+</wpt>
+<wpt lat="36.067272" lon="-111.889485">
+<name>C-URATTLES</name>
+<cmt>CAMP UPPER RATTLESNAKE</cmt>
+<desc>CAMP UPPER RATTLESNAKE</desc>
+</wpt>
+<wpt lat="36.369061" lon="-111.890411">
+<name>C-USADDLE</name>
+<cmt>CAMP UPR SADDLE</cmt>
+<desc>CAMP UPR SADDLE</desc>
+</wpt>
+<wpt lat="36.085424" lon="-111.877916">
+<name>C-UUNKAR</name>
+<cmt>CAMP UPPER UNKAR</cmt>
+<desc>CAMP UPPER UNKAR</desc>
+</wpt>
+<wpt lat="36.239708" lon="-112.405569">
+<name>C-WALTHBRG</name>
+<cmt>CAMP WALTHENBERG</cmt>
+<desc>CAMP WALTHENBERG</desc>
+</wpt>
+<wpt lat="36.145932" lon="-113.201625">
+<name>C-WHITMORE</name>
+<cmt>CAMP WHITMORE WASH</cmt>
+<desc>CAMP WHITMORE WASH</desc>
+</wpt>
+<wpt lat="36.383685" lon="-111.858066">
+<name>C-WILLIETY</name>
+<cmt>CAMP WILLIE TAYLOR</cmt>
+<desc>CAMP WILLIE TAYLOR</desc>
+</wpt>
+<wpt lat="36.083249" lon="-112.041514">
+<name>C-ZOROASTR</name>
+<cmt>CAMP ZOROASTER</cmt>
+<desc>CAMP ZOROASTER</desc>
+</wpt>
+<wpt lat="36.389249" lon="-112.508512">
+<name>DEERCREEK</name>
+<cmt>DEER CREEK FALLS</cmt>
+<desc>DEER CREEK FALLS</desc>
+</wpt>
+<wpt lat="35.766733" lon="-113.372242">
+<name>DIAMONDCRK</name>
+<cmt>DIAMOND CREEK RAP</cmt>
+<desc>DIAMOND CREEK RAP</desc>
+</wpt>
+<wpt lat="36.197487" lon="-112.450504">
+<name>ELVESCHASM</name>
+<cmt>ELVES CHASM</cmt>
+<desc>ELVES CHASM</desc>
+</wpt>
+<wpt lat="36.307840" lon="-112.763282">
+<name>HAVASUCNY</name>
+<cmt>HAVASU CANYON</cmt>
+<desc>HAVASU CANYON</desc>
+</wpt>
+<wpt lat="36.100890" lon="-112.089293">
+<name>KAIBABBRDG</name>
+<cmt>KAIBAB BRIDGE</cmt>
+<desc>KAIBAB BRIDGE</desc>
+</wpt>
+<wpt lat="36.192144" lon="-111.798760">
+<name>LCRIVER</name>
+<cmt>LITTLE COLORADO RIVER</cmt>
+<desc>LITTLE COLORADO RIVER</desc>
+</wpt>
+<wpt lat="36.866112" lon="-111.585646">
+<name>LEESFERRY</name>
+<cmt>LEES FERRY RAP</cmt>
+<desc>LEES FERRY RAP</desc>
+</wpt>
+<wpt lat="36.343868" lon="-112.672548">
+<name>MATKATAMIB</name>
+<cmt>MATKATAMIBA CANYON</cmt>
+<desc>MATKATAMIBA CANYON</desc>
+</wpt>
+<wpt lat="36.297701" lon="-111.860376">
+<name>NANKOWEAP</name>
+<cmt>NANKOWEAP HIKE</cmt>
+<desc>NANKOWEAP HIKE</desc>
+</wpt>
+<wpt lat="36.470210" lon="-111.840580">
+<name>NAUTILOID</name>
+<cmt>NAUTILOID CANYON</cmt>
+<desc>NAUTILOID CANYON</desc>
+</wpt>
+<wpt lat="36.817669" lon="-111.631247">
+<name>NAVAJOBRDG</name>
+<cmt>NAVAJO BRIDGE</cmt>
+<desc>NAVAJO BRIDGE</desc>
+</wpt>
+<wpt lat="36.003840" lon="-113.340503">
+<name>R-205MILE</name>
+<cmt>205 MILE RAPID (6)</cmt>
+<desc>205 MILE RAPID (6)</desc>
+</wpt>
+<wpt lat="35.968641" lon="-113.316887">
+<name>R-209MILE</name>
+<cmt>209 MILE RAPID (5)</cmt>
+<desc>209 MILE RAPID (5)</desc>
+</wpt>
+<wpt lat="35.861041" lon="-113.311890">
+<name>R-217MILE</name>
+<cmt>217 MILE RAPID (5)</cmt>
+<desc>217 MILE RAPID (5)</desc>
+</wpt>
+<wpt lat="36.621513" lon="-111.760268">
+<name>R-21MILE</name>
+<cmt>21 MILE RAPID (5)</cmt>
+<desc>21 MILE RAPID (5)</desc>
+</wpt>
+<wpt lat="36.585167" lon="-111.782267">
+<name>R-24MILE</name>
+<cmt>24 MILE RAPID (6)</cmt>
+<desc>24 MILE RAPID (6)</desc>
+</wpt>
+<wpt lat="36.582104" lon="-111.787468">
+<name>R-24PT5MLE</name>
+<cmt>24.5 MILE RAPID (6)</cmt>
+<desc>24.5 MILE RAPID (6)</desc>
+</wpt>
+<wpt lat="36.578179" lon="-111.792122">
+<name>R-25MILE</name>
+<cmt>25 MILE RAPID (6)</cmt>
+<desc>25 MILE RAPID (6)</desc>
+</wpt>
+<wpt lat="36.562155" lon="-111.815515">
+<name>R-27MILE</name>
+<cmt>27 MILE RAPID (5)</cmt>
+<desc>27 MILE RAPID (5)</desc>
+</wpt>
+<wpt lat="36.772786" lon="-111.656113">
+<name>R-BADGERCK</name>
+<cmt>BADGER CREEK RAPID (5)</cmt>
+<desc>BADGER CREEK RAPID (5)</desc>
+</wpt>
+<wpt lat="36.329535" lon="-112.462217">
+<name>R-BEDROCK</name>
+<cmt>BEDROCK RAPID (7)</cmt>
+<desc>BEDROCK RAPID (7)</desc>
+</wpt>
+<wpt lat="36.574545" lon="-111.801742">
+<name>R-CAVESPRG</name>
+<cmt>CAVE SPRINGS RAPID (5)</cmt>
+<desc>CAVE SPRINGS RAPID (5)</desc>
+</wpt>
+<wpt lat="36.136322" lon="-112.246310">
+<name>R-CRYSTAL</name>
+<cmt>CRYSTAL RAPID (9)</cmt>
+<desc>CRYSTAL RAPID (9)</desc>
+</wpt>
+<wpt lat="36.344842" lon="-112.454882">
+<name>R-DEUBENDF</name>
+<cmt>DEUBENDORFF RAPID (7)</cmt>
+<desc>DEUBENDORFF RAPID (7)</desc>
+</wpt>
+<wpt lat="36.180255" lon="-112.309366">
+<name>R-EMERALD</name>
+<cmt>EMERALD RAPID (5)</cmt>
+<desc>EMERALD RAPID (5)</desc>
+</wpt>
+<wpt lat="36.246481" lon="-112.518138">
+<name>R-FORSTER</name>
+<cmt>FORSTER RAPID (5)</cmt>
+<desc>FORSTER RAPID (5)</desc>
+</wpt>
+<wpt lat="36.271329" lon="-112.523562">
+<name>R-FOSSIL</name>
+<cmt>FOSSIL RAPID (5)</cmt>
+<desc>FOSSIL RAPID (5)</desc>
+</wpt>
+<wpt lat="36.098643" lon="-112.185462">
+<name>R-GRANITE</name>
+<cmt>GRANITE RAPID (8)</cmt>
+<desc>GRANITE RAPID (8)</desc>
+</wpt>
+<wpt lat="36.058846" lon="-112.002109">
+<name>R-GRAPEVIN</name>
+<cmt>GRAPEVINE RAPID (7)</cmt>
+<desc>GRAPEVINE RAPID (7)</desc>
+</wpt>
+<wpt lat="36.045871" lon="-111.920328">
+<name>R-HANCE</name>
+<cmt>HANCE RAPID (8)</cmt>
+<desc>HANCE RAPID (8)</desc>
+</wpt>
+<wpt lat="36.100234" lon="-112.210280">
+<name>R-HERMIT</name>
+<cmt>HERMIT RAPID (8)</cmt>
+<desc>HERMIT RAPID (8)</desc>
+</wpt>
+<wpt lat="36.099567" lon="-112.134776">
+<name>R-HORNCRK</name>
+<cmt>HORN CREEK RAPID (8)</cmt>
+<desc>HORN CREEK RAPID (8)</desc>
+</wpt>
+<wpt lat="36.673421" lon="-111.740142">
+<name>R-HOUSEROK</name>
+<cmt>HOUSE ROCK RAPID (7)</cmt>
+<desc>HOUSE ROCK RAPID (7)</desc>
+</wpt>
+<wpt lat="36.263494" lon="-111.827539">
+<name>R-KWAGUNT</name>
+<cmt>KWAGUNT RAPID (5)</cmt>
+<desc>KWAGUNT RAPID (5)</desc>
+</wpt>
+<wpt lat="36.197292" lon="-113.083848">
+<name>R-LAVAFALL</name>
+<cmt>LAVA FALLS RAPID (9)</cmt>
+<desc>LAVA FALLS RAPID (9)</desc>
+</wpt>
+<wpt lat="36.052388" lon="-111.902684">
+<name>R-NEVILLS</name>
+<cmt>NEVILLS RAPID (6)</cmt>
+<desc>NEVILLS RAPID (6)</desc>
+</wpt>
+<wpt lat="36.628847" lon="-111.763695">
+<name>R-NORTHCYN</name>
+<cmt>NORTH CANYON RAPID (5)</cmt>
+<desc>NORTH CANYON RAPID (5)</desc>
+</wpt>
+<wpt lat="36.190139" lon="-112.315669">
+<name>R-RUBY</name>
+<cmt>RUBY RAPID (5)</cmt>
+<desc>RUBY RAPID (5)</desc>
+</wpt>
+<wpt lat="36.147405" lon="-112.292724">
+<name>R-SAPPHIRE</name>
+<cmt>SAPPHIRE RAPID (6)</cmt>
+<desc>SAPPHIRE RAPID (6)</desc>
+</wpt>
+<wpt lat="36.206733" lon="-112.328094">
+<name>R-SERPTINE</name>
+<cmt>SERPENTINE RAPID (7)</cmt>
+<desc>SERPENTINE RAPID (7)</desc>
+</wpt>
+<wpt lat="36.737234" lon="-111.693937">
+<name>R-SOAPCRK</name>
+<cmt>SOAP CREEK RAPID (5)</cmt>
+<desc>SOAP CREEK RAPID (5)</desc>
+</wpt>
+<wpt lat="36.046434" lon="-111.954394">
+<name>R-SOCKDOLG</name>
+<cmt>SOCKDOLAGER RAPID (7)</cmt>
+<desc>SOCKDOLAGER RAPID (7)</desc>
+</wpt>
+<wpt lat="36.315713" lon="-112.477865">
+<name>R-SPECTER</name>
+<cmt>SPECTER RAPID (6)</cmt>
+<desc>SPECTER RAPID (6)</desc>
+</wpt>
+<wpt lat="36.370616" lon="-112.470209">
+<name>R-TAPEATS</name>
+<cmt>TAPEATS RAPID (5)</cmt>
+<desc>TAPEATS RAPID (5)</desc>
+</wpt>
+<wpt lat="36.143222" lon="-112.258912">
+<name>R-TUNACRK</name>
+<cmt>TUNA CREEK RAPID (6)</cmt>
+<desc>TUNA CREEK RAPID (6)</desc>
+</wpt>
+<wpt lat="36.080414" lon="-111.872618">
+<name>R-UNKAR</name>
+<cmt>UNKAR CREEK RAPID (6)</cmt>
+<desc>UNKAR CREEK RAPID (6)</desc>
+</wpt>
+<wpt lat="36.355329" lon="-112.695928">
+<name>R-UPSET</name>
+<cmt>UPSET RAPID (6)</cmt>
+<desc>UPSET RAPID (6)</desc>
+</wpt>
+<wpt lat="36.238289" lon="-112.406612">
+<name>R-WALTHENB</name>
+<cmt>WALTHENBERG RAPID</cmt>
+<desc>WALTHENBERG RAPID</desc>
+</wpt>
+<wpt lat="36.085630" lon="-112.045455">
+<name>R-ZOROASTR</name>
+<cmt>ZOROASTER RAPID (5)</cmt>
+<desc>ZOROASTER RAPID (5)</desc>
+</wpt>
+<wpt lat="36.493151" lon="-111.839488">
+<name>REDWALLCVN</name>
+<cmt>REDWALL CAVERN</cmt>
+<desc>REDWALL CAVERN</desc>
+</wpt>
+<wpt lat="36.864876" lon="-111.587746">
+<name>RM000</name>
+<cmt>RM000</cmt>
+<desc>RM000</desc>
+</wpt>
+<wpt lat="36.856799" lon="-111.602223">
+<name>RM001</name>
+<cmt>RM001</cmt>
+<desc>RM001</desc>
+</wpt>
+<wpt lat="36.848942" lon="-111.615486">
+<name>RM002</name>
+<cmt>RM002</cmt>
+<desc>RM002</desc>
+</wpt>
+<wpt lat="36.834940" lon="-111.617662">
+<name>RM003</name>
+<cmt>RM003</cmt>
+<desc>RM003</desc>
+</wpt>
+<wpt lat="36.824067" lon="-111.628339">
+<name>RM004</name>
+<cmt>RM004</cmt>
+<desc>RM004</desc>
+</wpt>
+<wpt lat="36.810188" lon="-111.634549">
+<name>RM005</name>
+<cmt>RM005</cmt>
+<desc>RM005</desc>
+</wpt>
+<wpt lat="36.799826" lon="-111.643745">
+<name>RM006</name>
+<cmt>RM006</cmt>
+<desc>RM006</desc>
+</wpt>
+<wpt lat="36.785746" lon="-111.646854">
+<name>RM007</name>
+<cmt>RM007</cmt>
+<desc>RM007</desc>
+</wpt>
+<wpt lat="36.773581" lon="-111.655806">
+<name>RM008</name>
+<cmt>RM008</cmt>
+<desc>RM008</desc>
+</wpt>
+<wpt lat="36.761826" lon="-111.662429">
+<name>RM009</name>
+<cmt>RM009</cmt>
+<desc>RM009</desc>
+</wpt>
+<wpt lat="36.751475" lon="-111.675514">
+<name>RM010</name>
+<cmt>RM010</cmt>
+<desc>RM010</desc>
+</wpt>
+<wpt lat="36.743065" lon="-111.689598">
+<name>RM011</name>
+<cmt>RM011</cmt>
+<desc>RM011</desc>
+</wpt>
+<wpt lat="36.729945" lon="-111.694857">
+<name>RM012</name>
+<cmt>RM012</cmt>
+<desc>RM012</desc>
+</wpt>
+<wpt lat="36.721975" lon="-111.707371">
+<name>RM013</name>
+<cmt>RM013</cmt>
+<desc>RM013</desc>
+</wpt>
+<wpt lat="36.707461" lon="-111.710328">
+<name>RM014</name>
+<cmt>RM014</cmt>
+<desc>RM014</desc>
+</wpt>
+<wpt lat="36.694442" lon="-111.716656">
+<name>RM015</name>
+<cmt>RM015</cmt>
+<desc>RM015</desc>
+</wpt>
+<wpt lat="36.688071" lon="-111.732581">
+<name>RM016</name>
+<cmt>RM016</cmt>
+<desc>RM016</desc>
+</wpt>
+<wpt lat="36.675150" lon="-111.740337">
+<name>RM017</name>
+<cmt>RM017</cmt>
+<desc>RM017</desc>
+</wpt>
+<wpt lat="36.661294" lon="-111.741950">
+<name>RM018</name>
+<cmt>RM018</cmt>
+<desc>RM018</desc>
+</wpt>
+<wpt lat="36.651692" lon="-111.755015">
+<name>RM019</name>
+<cmt>RM019</cmt>
+<desc>RM019</desc>
+</wpt>
+<wpt lat="36.640256" lon="-111.761481">
+<name>RM020</name>
+<cmt>RM020</cmt>
+<desc>RM020</desc>
+</wpt>
+<wpt lat="36.626501" lon="-111.764164">
+<name>RM021</name>
+<cmt>RM021</cmt>
+<desc>RM021</desc>
+</wpt>
+<wpt lat="36.613370" lon="-111.759293">
+<name>RM022</name>
+<cmt>RM022</cmt>
+<desc>RM022</desc>
+</wpt>
+<wpt lat="36.600342" lon="-111.766679">
+<name>RM023</name>
+<cmt>RM023</cmt>
+<desc>RM023</desc>
+</wpt>
+<wpt lat="36.589091" lon="-111.777791">
+<name>RM024</name>
+<cmt>RM024</cmt>
+<desc>RM024</desc>
+</wpt>
+<wpt lat="36.579057" lon="-111.790298">
+<name>RM025</name>
+<cmt>RM025</cmt>
+<desc>RM025</desc>
+</wpt>
+<wpt lat="36.572571" lon="-111.805745">
+<name>RM026</name>
+<cmt>RM026</cmt>
+<desc>RM026</desc>
+</wpt>
+<wpt lat="36.560493" lon="-111.816079">
+<name>RM027</name>
+<cmt>RM027</cmt>
+<desc>RM027</desc>
+</wpt>
+<wpt lat="36.549215" lon="-111.825256">
+<name>RM028</name>
+<cmt>RM028</cmt>
+<desc>RM028</desc>
+</wpt>
+<wpt lat="36.534914" lon="-111.828322">
+<name>RM029</name>
+<cmt>RM029</cmt>
+<desc>RM029</desc>
+</wpt>
+<wpt lat="36.525411" lon="-111.841356">
+<name>RM030</name>
+<cmt>RM030</cmt>
+<desc>RM030</desc>
+</wpt>
+<wpt lat="36.512556" lon="-111.849034">
+<name>RM031</name>
+<cmt>RM031</cmt>
+<desc>RM031</desc>
+</wpt>
+<wpt lat="36.500482" lon="-111.858282">
+<name>RM032</name>
+<cmt>RM032</cmt>
+<desc>RM032</desc>
+</wpt>
+<wpt lat="36.495187" lon="-111.842279">
+<name>RM033</name>
+<cmt>RM033</cmt>
+<desc>RM033</desc>
+</wpt>
+<wpt lat="36.482752" lon="-111.846655">
+<name>RM034</name>
+<cmt>RM034</cmt>
+<desc>RM034</desc>
+</wpt>
+<wpt lat="36.470456" lon="-111.841431">
+<name>RM035</name>
+<cmt>RM035</cmt>
+<desc>RM035</desc>
+</wpt>
+<wpt lat="36.456823" lon="-111.836597">
+<name>RM036</name>
+<cmt>RM036</cmt>
+<desc>RM036</desc>
+</wpt>
+<wpt lat="36.446949" lon="-111.845953">
+<name>RM037</name>
+<cmt>RM037</cmt>
+<desc>RM037</desc>
+</wpt>
+<wpt lat="36.434787" lon="-111.852381">
+<name>RM038</name>
+<cmt>RM038</cmt>
+<desc>RM038</desc>
+</wpt>
+<wpt lat="36.430841" lon="-111.869518">
+<name>RM039</name>
+<cmt>RM039</cmt>
+<desc>RM039</desc>
+</wpt>
+<wpt lat="36.417179" lon="-111.868964">
+<name>RM040</name>
+<cmt>RM040</cmt>
+<desc>RM040</desc>
+</wpt>
+<wpt lat="36.405796" lon="-111.877135">
+<name>RM041</name>
+<cmt>RM041</cmt>
+<desc>RM041</desc>
+</wpt>
+<wpt lat="36.393984" lon="-111.879946">
+<name>RM042</name>
+<cmt>RM042</cmt>
+<desc>RM042</desc>
+</wpt>
+<wpt lat="36.395514" lon="-111.862969">
+<name>RM043</name>
+<cmt>RM043</cmt>
+<desc>RM043</desc>
+</wpt>
+<wpt lat="36.390000" lon="-111.847387">
+<name>RM044</name>
+<cmt>RM044</cmt>
+<desc>RM044</desc>
+</wpt>
+<wpt lat="36.384661" lon="-111.857765">
+<name>RM045</name>
+<cmt>RM045</cmt>
+<desc>RM045</desc>
+</wpt>
+<wpt lat="36.380857" lon="-111.875115">
+<name>RM046</name>
+<cmt>RM046</cmt>
+<desc>RM046</desc>
+</wpt>
+<wpt lat="36.374364" lon="-111.890025">
+<name>RM047</name>
+<cmt>RM047</cmt>
+<desc>RM047</desc>
+</wpt>
+<wpt lat="36.361645" lon="-111.883862">
+<name>RM048</name>
+<cmt>RM048</cmt>
+<desc>RM048</desc>
+</wpt>
+<wpt lat="36.350618" lon="-111.873038">
+<name>RM049</name>
+<cmt>RM049</cmt>
+<desc>RM049</desc>
+</wpt>
+<wpt lat="36.339438" lon="-111.863286">
+<name>RM050</name>
+<cmt>RM050</cmt>
+<desc>RM050</desc>
+</wpt>
+<wpt lat="36.325947" lon="-111.858859">
+<name>RM051</name>
+<cmt>RM051</cmt>
+<desc>RM051</desc>
+</wpt>
+<wpt lat="36.312132" lon="-111.864322">
+<name>RM052</name>
+<cmt>RM052</cmt>
+<desc>RM052</desc>
+</wpt>
+<wpt lat="36.301486" lon="-111.855517">
+<name>RM053</name>
+<cmt>RM053</cmt>
+<desc>RM053</desc>
+</wpt>
+<wpt lat="36.290360" lon="-111.853124">
+<name>RM054</name>
+<cmt>RM054</cmt>
+<desc>RM054</desc>
+</wpt>
+<wpt lat="36.278971" lon="-111.842043">
+<name>RM055</name>
+<cmt>RM055</cmt>
+<desc>RM055</desc>
+</wpt>
+<wpt lat="36.268109" lon="-111.832842">
+<name>RM056</name>
+<cmt>RM056</cmt>
+<desc>RM056</desc>
+</wpt>
+<wpt lat="36.254855" lon="-111.825355">
+<name>RM057</name>
+<cmt>RM057</cmt>
+<desc>RM057</desc>
+</wpt>
+<wpt lat="36.241806" lon="-111.824595">
+<name>RM058</name>
+<cmt>RM058</cmt>
+<desc>RM058</desc>
+</wpt>
+<wpt lat="36.228869" lon="-111.818050">
+<name>RM059</name>
+<cmt>RM059</cmt>
+<desc>RM059</desc>
+</wpt>
+<wpt lat="36.216008" lon="-111.810795">
+<name>RM060</name>
+<cmt>RM060</cmt>
+<desc>RM060</desc>
+</wpt>
+<wpt lat="36.203848" lon="-111.801104">
+<name>RM061</name>
+<cmt>RM061</cmt>
+<desc>RM061</desc>
+</wpt>
+<wpt lat="36.191280" lon="-111.803912">
+<name>RM062</name>
+<cmt>RM062</cmt>
+<desc>RM062</desc>
+</wpt>
+<wpt lat="36.179783" lon="-111.813669">
+<name>RM063</name>
+<cmt>RM063</cmt>
+<desc>RM063</desc>
+</wpt>
+<wpt lat="36.166203" lon="-111.811394">
+<name>RM064</name>
+<cmt>RM064</cmt>
+<desc>RM064</desc>
+</wpt>
+<wpt lat="36.152330" lon="-111.815120">
+<name>RM065</name>
+<cmt>RM065</cmt>
+<desc>RM065</desc>
+</wpt>
+<wpt lat="36.138291" lon="-111.816664">
+<name>RM066</name>
+<cmt>RM066</cmt>
+<desc>RM066</desc>
+</wpt>
+<wpt lat="36.124727" lon="-111.822657">
+<name>RM067</name>
+<cmt>RM067</cmt>
+<desc>RM067</desc>
+</wpt>
+<wpt lat="36.111306" lon="-111.828784">
+<name>RM068</name>
+<cmt>RM068</cmt>
+<desc>RM068</desc>
+</wpt>
+<wpt lat="36.103985" lon="-111.833995">
+<name>RM069</name>
+<cmt>RM069</cmt>
+<desc>RM069</desc>
+</wpt>
+<wpt lat="36.095727" lon="-111.839240">
+<name>RM070</name>
+<cmt>RM070</cmt>
+<desc>RM070</desc>
+</wpt>
+<wpt lat="36.088703" lon="-111.853427">
+<name>RM071</name>
+<cmt>RM071</cmt>
+<desc>RM071</desc>
+</wpt>
+<wpt lat="36.087494" lon="-111.871097">
+<name>RM072</name>
+<cmt>RM072</cmt>
+<desc>RM072</desc>
+</wpt>
+<wpt lat="36.079918" lon="-111.871413">
+<name>RM073</name>
+<cmt>RM073</cmt>
+<desc>RM073</desc>
+</wpt>
+<wpt lat="36.069696" lon="-111.878674">
+<name>RM074</name>
+<cmt>RM074</cmt>
+<desc>RM074</desc>
+</wpt>
+<wpt lat="36.062988" lon="-111.893389">
+<name>RM075</name>
+<cmt>RM075</cmt>
+<desc>RM075</desc>
+</wpt>
+<wpt lat="36.050794" lon="-111.903688">
+<name>RM076</name>
+<cmt>RM076</cmt>
+<desc>RM076</desc>
+</wpt>
+<wpt lat="36.044564" lon="-111.916671">
+<name>RM077</name>
+<cmt>RM077</cmt>
+<desc>RM077</desc>
+</wpt>
+<wpt lat="36.046599" lon="-111.933347">
+<name>RM078</name>
+<cmt>RM078</cmt>
+<desc>RM078</desc>
+</wpt>
+<wpt lat="36.045058" lon="-111.950514">
+<name>RM079</name>
+<cmt>RM079</cmt>
+<desc>RM079</desc>
+</wpt>
+<wpt lat="36.049362" lon="-111.966952">
+<name>RM080</name>
+<cmt>RM080</cmt>
+<desc>RM080</desc>
+</wpt>
+<wpt lat="36.050836" lon="-111.985221">
+<name>RM081</name>
+<cmt>RM081</cmt>
+<desc>RM081</desc>
+</wpt>
+<wpt lat="36.057530" lon="-111.999961">
+<name>RM082</name>
+<cmt>RM082</cmt>
+<desc>RM082</desc>
+</wpt>
+<wpt lat="36.065311" lon="-112.013784">
+<name>RM083</name>
+<cmt>RM083</cmt>
+<desc>RM083</desc>
+</wpt>
+<wpt lat="36.075367" lon="-112.027106">
+<name>RM084</name>
+<cmt>RM084</cmt>
+<desc>RM084</desc>
+</wpt>
+<wpt lat="36.083577" lon="-112.041074">
+<name>RM085</name>
+<cmt>RM085</cmt>
+<desc>RM085</desc>
+</wpt>
+<wpt lat="36.089167" lon="-112.057542">
+<name>RM086</name>
+<cmt>RM086</cmt>
+<desc>RM086</desc>
+</wpt>
+<wpt lat="36.097044" lon="-112.071911">
+<name>RM087</name>
+<cmt>RM087</cmt>
+<desc>RM087</desc>
+</wpt>
+<wpt lat="36.101115" lon="-112.088363">
+<name>RM088</name>
+<cmt>RM088</cmt>
+<desc>RM088</desc>
+</wpt>
+<wpt lat="36.101007" lon="-112.104180">
+<name>RM089</name>
+<cmt>RM089</cmt>
+<desc>RM089</desc>
+</wpt>
+<wpt lat="36.097075" lon="-112.119855">
+<name>RM090</name>
+<cmt>RM090</cmt>
+<desc>RM090</desc>
+</wpt>
+<wpt lat="36.100599" lon="-112.136168">
+<name>RM091</name>
+<cmt>RM091</cmt>
+<desc>RM091</desc>
+</wpt>
+<wpt lat="36.106083" lon="-112.151045">
+<name>RM092</name>
+<cmt>RM092</cmt>
+<desc>RM092</desc>
+</wpt>
+<wpt lat="36.099870" lon="-112.167040">
+<name>RM093</name>
+<cmt>RM093</cmt>
+<desc>RM093</desc>
+</wpt>
+<wpt lat="36.098509" lon="-112.184482">
+<name>RM094</name>
+<cmt>RM094</cmt>
+<desc>RM094</desc>
+</wpt>
+<wpt lat="36.097038" lon="-112.201789">
+<name>RM095</name>
+<cmt>RM095</cmt>
+<desc>RM095</desc>
+</wpt>
+<wpt lat="36.103074" lon="-112.218278">
+<name>RM096</name>
+<cmt>RM096</cmt>
+<desc>RM096</desc>
+</wpt>
+<wpt lat="36.113880" lon="-112.230045">
+<name>RM097</name>
+<cmt>RM097</cmt>
+<desc>RM097</desc>
+</wpt>
+<wpt lat="36.127036" lon="-112.234117">
+<name>RM098</name>
+<cmt>RM098</cmt>
+<desc>RM098</desc>
+</wpt>
+<wpt lat="36.136826" lon="-112.246406">
+<name>RM099</name>
+<cmt>RM099</cmt>
+<desc>RM099</desc>
+</wpt>
+<wpt lat="36.145108" lon="-112.261343">
+<name>RM100</name>
+<cmt>RM100</cmt>
+<desc>RM100</desc>
+</wpt>
+<wpt lat="36.143849" lon="-112.277995">
+<name>RM101</name>
+<cmt>RM101</cmt>
+<desc>RM101</desc>
+</wpt>
+<wpt lat="36.148532" lon="-112.295277">
+<name>RM102</name>
+<cmt>RM102</cmt>
+<desc>RM102</desc>
+</wpt>
+<wpt lat="36.159011" lon="-112.306522">
+<name>RM103</name>
+<cmt>RM103</cmt>
+<desc>RM103</desc>
+</wpt>
+<wpt lat="36.173488" lon="-112.308230">
+<name>RM104</name>
+<cmt>RM104</cmt>
+<desc>RM104</desc>
+</wpt>
+<wpt lat="36.187139" lon="-112.313039">
+<name>RM105</name>
+<cmt>RM105</cmt>
+<desc>RM105</desc>
+</wpt>
+<wpt lat="36.199252" lon="-112.323118">
+<name>RM106</name>
+<cmt>RM106</cmt>
+<desc>RM106</desc>
+</wpt>
+<wpt lat="36.211715" lon="-112.330803">
+<name>RM107</name>
+<cmt>RM107</cmt>
+<desc>RM107</desc>
+</wpt>
+<wpt lat="36.224958" lon="-112.336502">
+<name>RM108</name>
+<cmt>RM108</cmt>
+<desc>RM108</desc>
+</wpt>
+<wpt lat="36.237588" lon="-112.345263">
+<name>RM109</name>
+<cmt>RM109</cmt>
+<desc>RM109</desc>
+</wpt>
+<wpt lat="36.242957" lon="-112.358442">
+<name>RM110</name>
+<cmt>RM110</cmt>
+<desc>RM110</desc>
+</wpt>
+<wpt lat="36.243910" lon="-112.375953">
+<name>RM111</name>
+<cmt>RM111</cmt>
+<desc>RM111</desc>
+</wpt>
+<wpt lat="36.243714" lon="-112.392910">
+<name>RM112</name>
+<cmt>RM112</cmt>
+<desc>RM112</desc>
+</wpt>
+<wpt lat="36.237470" lon="-112.408823">
+<name>RM113</name>
+<cmt>RM113</cmt>
+<desc>RM113</desc>
+</wpt>
+<wpt lat="36.228341" lon="-112.421477">
+<name>RM114</name>
+<cmt>RM114</cmt>
+<desc>RM114</desc>
+</wpt>
+<wpt lat="36.214751" lon="-112.424168">
+<name>RM115</name>
+<cmt>RM115</cmt>
+<desc>RM115</desc>
+</wpt>
+<wpt lat="36.201362" lon="-112.431133">
+<name>RM116</name>
+<cmt>RM116</cmt>
+<desc>RM116</desc>
+</wpt>
+<wpt lat="36.197706" lon="-112.447349">
+<name>RM117</name>
+<cmt>RM117</cmt>
+<desc>RM117</desc>
+</wpt>
+<wpt lat="36.207776" lon="-112.455410">
+<name>RM118</name>
+<cmt>RM118</cmt>
+<desc>RM118</desc>
+</wpt>
+<wpt lat="36.221946" lon="-112.455539">
+<name>RM119</name>
+<cmt>RM119</cmt>
+<desc>RM119</desc>
+</wpt>
+<wpt lat="36.235771" lon="-112.463184">
+<name>RM120</name>
+<cmt>RM120</cmt>
+<desc>RM120</desc>
+</wpt>
+<wpt lat="36.240574" lon="-112.477295">
+<name>RM121</name>
+<cmt>RM121</cmt>
+<desc>RM121</desc>
+</wpt>
+<wpt lat="36.242841" lon="-112.495099">
+<name>RM122</name>
+<cmt>RM122</cmt>
+<desc>RM122</desc>
+</wpt>
+<wpt lat="36.244245" lon="-112.512486">
+<name>RM123</name>
+<cmt>RM123</cmt>
+<desc>RM123</desc>
+</wpt>
+<wpt lat="36.252517" lon="-112.525512">
+<name>RM124</name>
+<cmt>RM124</cmt>
+<desc>RM124</desc>
+</wpt>
+<wpt lat="36.265446" lon="-112.529637">
+<name>RM125</name>
+<cmt>RM125</cmt>
+<desc>RM125</desc>
+</wpt>
+<wpt lat="36.276036" lon="-112.519156">
+<name>RM126</name>
+<cmt>RM126</cmt>
+<desc>RM126</desc>
+</wpt>
+<wpt lat="36.283339" lon="-112.503353">
+<name>RM127</name>
+<cmt>RM127</cmt>
+<desc>RM127</desc>
+</wpt>
+<wpt lat="36.296293" lon="-112.496920">
+<name>RM128</name>
+<cmt>RM128</cmt>
+<desc>RM128</desc>
+</wpt>
+<wpt lat="36.307978" lon="-112.488055">
+<name>RM129</name>
+<cmt>RM129</cmt>
+<desc>RM129</desc>
+</wpt>
+<wpt lat="36.317649" lon="-112.475808">
+<name>RM130</name>
+<cmt>RM130</cmt>
+<desc>RM130</desc>
+</wpt>
+<wpt lat="36.327647" lon="-112.463296">
+<name>RM131</name>
+<cmt>RM131</cmt>
+<desc>RM131</desc>
+</wpt>
+<wpt lat="36.340155" lon="-112.454839">
+<name>RM132</name>
+<cmt>RM132</cmt>
+<desc>RM132</desc>
+</wpt>
+<wpt lat="36.354963" lon="-112.455783">
+<name>RM133</name>
+<cmt>RM133</cmt>
+<desc>RM133</desc>
+</wpt>
+<wpt lat="36.368322" lon="-112.466109">
+<name>RM134</name>
+<cmt>RM134</cmt>
+<desc>RM134</desc>
+</wpt>
+<wpt lat="36.375518" lon="-112.479085">
+<name>RM135</name>
+<cmt>RM135</cmt>
+<desc>RM135</desc>
+</wpt>
+<wpt lat="36.382145" lon="-112.494194">
+<name>RM136</name>
+<cmt>RM136</cmt>
+<desc>RM136</desc>
+</wpt>
+<wpt lat="36.388431" lon="-112.510458">
+<name>RM137</name>
+<cmt>RM137</cmt>
+<desc>RM137</desc>
+</wpt>
+<wpt lat="36.394396" lon="-112.526228">
+<name>RM138</name>
+<cmt>RM138</cmt>
+<desc>RM138</desc>
+</wpt>
+<wpt lat="36.400026" lon="-112.542663">
+<name>RM139</name>
+<cmt>RM139</cmt>
+<desc>RM139</desc>
+</wpt>
+<wpt lat="36.400015" lon="-112.560192">
+<name>RM140</name>
+<cmt>RM140</cmt>
+<desc>RM140</desc>
+</wpt>
+<wpt lat="36.397086" lon="-112.577260">
+<name>RM141</name>
+<cmt>RM141</cmt>
+<desc>RM141</desc>
+</wpt>
+<wpt lat="36.396854" lon="-112.594739">
+<name>RM142</name>
+<cmt>RM142</cmt>
+<desc>RM142</desc>
+</wpt>
+<wpt lat="36.392746" lon="-112.610711">
+<name>RM143</name>
+<cmt>RM143</cmt>
+<desc>RM143</desc>
+</wpt>
+<wpt lat="36.391850" lon="-112.628888">
+<name>RM144</name>
+<cmt>RM144</cmt>
+<desc>RM144</desc>
+</wpt>
+<wpt lat="36.385791" lon="-112.644816">
+<name>RM145</name>
+<cmt>RM145</cmt>
+<desc>RM145</desc>
+</wpt>
+<wpt lat="36.372090" lon="-112.649967">
+<name>RM146</name>
+<cmt>RM146</cmt>
+<desc>RM146</desc>
+</wpt>
+<wpt lat="36.359144" lon="-112.655310">
+<name>RM147</name>
+<cmt>RM147</cmt>
+<desc>RM147</desc>
+</wpt>
+<wpt lat="36.347729" lon="-112.667192">
+<name>RM148</name>
+<cmt>RM148</cmt>
+<desc>RM148</desc>
+</wpt>
+<wpt lat="36.341994" lon="-112.682714">
+<name>RM149</name>
+<cmt>RM149</cmt>
+<desc>RM149</desc>
+</wpt>
+<wpt lat="36.354539" lon="-112.690606">
+<name>RM150</name>
+<cmt>RM150</cmt>
+<desc>RM150</desc>
+</wpt>
+<wpt lat="36.351920" lon="-112.707399">
+<name>RM151</name>
+<cmt>RM151</cmt>
+<desc>RM151</desc>
+</wpt>
+<wpt lat="36.346424" lon="-112.723547">
+<name>RM152</name>
+<cmt>RM152</cmt>
+<desc>RM152</desc>
+</wpt>
+<wpt lat="36.333004" lon="-112.724054">
+<name>RM153</name>
+<cmt>RM153</cmt>
+<desc>RM153</desc>
+</wpt>
+<wpt lat="36.319785" lon="-112.723094">
+<name>RM154</name>
+<cmt>RM154</cmt>
+<desc>RM154</desc>
+</wpt>
+<wpt lat="36.319977" lon="-112.739673">
+<name>RM155</name>
+<cmt>RM155</cmt>
+<desc>RM155</desc>
+</wpt>
+<wpt lat="36.324730" lon="-112.754884">
+<name>RM156</name>
+<cmt>RM156</cmt>
+<desc>RM156</desc>
+</wpt>
+<wpt lat="36.311984" lon="-112.761014">
+<name>RM157</name>
+<cmt>RM157</cmt>
+<desc>RM157</desc>
+</wpt>
+<wpt lat="36.302775" lon="-112.774215">
+<name>RM158</name>
+<cmt>RM158</cmt>
+<desc>RM158</desc>
+</wpt>
+<wpt lat="36.297904" lon="-112.788938">
+<name>RM159</name>
+<cmt>RM159</cmt>
+<desc>RM159</desc>
+</wpt>
+<wpt lat="36.284534" lon="-112.793264">
+<name>RM160</name>
+<cmt>RM160</cmt>
+<desc>RM160</desc>
+</wpt>
+<wpt lat="36.288065" lon="-112.810180">
+<name>RM161</name>
+<cmt>RM161</cmt>
+<desc>RM161</desc>
+</wpt>
+<wpt lat="36.287691" lon="-112.827674">
+<name>RM162</name>
+<cmt>RM162</cmt>
+<desc>RM162</desc>
+</wpt>
+<wpt lat="36.277661" lon="-112.839865">
+<name>RM163</name>
+<cmt>RM163</cmt>
+<desc>RM163</desc>
+</wpt>
+<wpt lat="36.280283" lon="-112.856804">
+<name>RM164</name>
+<cmt>RM164</cmt>
+<desc>RM164</desc>
+</wpt>
+<wpt lat="36.280347" lon="-112.873505">
+<name>RM165</name>
+<cmt>RM165</cmt>
+<desc>RM165</desc>
+</wpt>
+<wpt lat="36.268001" lon="-112.881359">
+<name>RM166</name>
+<cmt>RM166</cmt>
+<desc>RM166</desc>
+</wpt>
+<wpt lat="36.257751" lon="-112.893400">
+<name>RM167</name>
+<cmt>RM167</cmt>
+<desc>RM167</desc>
+</wpt>
+<wpt lat="36.255976" lon="-112.909784">
+<name>RM168</name>
+<cmt>RM168</cmt>
+<desc>RM168</desc>
+</wpt>
+<wpt lat="36.255829" lon="-112.925674">
+<name>RM169</name>
+<cmt>RM169</cmt>
+<desc>RM169</desc>
+</wpt>
+<wpt lat="36.243257" lon="-112.933911">
+<name>RM170</name>
+<cmt>RM170</cmt>
+<desc>RM170</desc>
+</wpt>
+<wpt lat="36.239697" lon="-112.951093">
+<name>RM171</name>
+<cmt>RM171</cmt>
+<desc>RM171</desc>
+</wpt>
+<wpt lat="36.235094" lon="-112.967936">
+<name>RM172</name>
+<cmt>RM172</cmt>
+<desc>RM172</desc>
+</wpt>
+<wpt lat="36.232016" lon="-112.984013">
+<name>RM173</name>
+<cmt>RM173</cmt>
+<desc>RM173</desc>
+</wpt>
+<wpt lat="36.237018" lon="-113.001943">
+<name>RM174</name>
+<cmt>RM174</cmt>
+<desc>RM174</desc>
+</wpt>
+<wpt lat="36.237287" lon="-113.018106">
+<name>RM175</name>
+<cmt>RM175</cmt>
+<desc>RM175</desc>
+</wpt>
+<wpt lat="36.230011" lon="-113.032604">
+<name>RM176</name>
+<cmt>RM176</cmt>
+<desc>RM176</desc>
+</wpt>
+<wpt lat="36.219815" lon="-113.044800">
+<name>RM177</name>
+<cmt>RM177</cmt>
+<desc>RM177</desc>
+</wpt>
+<wpt lat="36.208275" lon="-113.055444">
+<name>RM178</name>
+<cmt>RM178</cmt>
+<desc>RM178</desc>
+</wpt>
+<wpt lat="36.203563" lon="-113.071558">
+<name>RM179</name>
+<cmt>RM179</cmt>
+<desc>RM179</desc>
+</wpt>
+<wpt lat="36.195615" lon="-113.086962">
+<name>RM180</name>
+<cmt>RM180</cmt>
+<desc>RM180</desc>
+</wpt>
+<wpt lat="36.189727" lon="-113.102018">
+<name>RM181</name>
+<cmt>RM181</cmt>
+<desc>RM181</desc>
+</wpt>
+<wpt lat="36.181365" lon="-113.116204">
+<name>RM182</name>
+<cmt>RM182</cmt>
+<desc>RM182</desc>
+</wpt>
+<wpt lat="36.170218" lon="-113.126665">
+<name>RM183</name>
+<cmt>RM183</cmt>
+<desc>RM183</desc>
+</wpt>
+<wpt lat="36.169625" lon="-113.141724">
+<name>RM184</name>
+<cmt>RM184</cmt>
+<desc>RM184</desc>
+</wpt>
+<wpt lat="36.173994" lon="-113.157452">
+<name>RM185</name>
+<cmt>RM185</cmt>
+<desc>RM185</desc>
+</wpt>
+<wpt lat="36.164580" lon="-113.169599">
+<name>RM186</name>
+<cmt>RM186</cmt>
+<desc>RM186</desc>
+</wpt>
+<wpt lat="36.157337" lon="-113.185272">
+<name>RM187</name>
+<cmt>RM187</cmt>
+<desc>RM187</desc>
+</wpt>
+<wpt lat="36.150682" lon="-113.200158">
+<name>RM188</name>
+<cmt>RM188</cmt>
+<desc>RM188</desc>
+</wpt>
+<wpt lat="36.137520" lon="-113.204191">
+<name>RM189</name>
+<cmt>RM189</cmt>
+<desc>RM189</desc>
+</wpt>
+<wpt lat="36.123423" lon="-113.202196">
+<name>RM190</name>
+<cmt>RM190</cmt>
+<desc>RM190</desc>
+</wpt>
+<wpt lat="36.112153" lon="-113.209213">
+<name>RM191</name>
+<cmt>RM191</cmt>
+<desc>RM191</desc>
+</wpt>
+<wpt lat="36.100409" lon="-113.218436">
+<name>RM192</name>
+<cmt>RM192</cmt>
+<desc>RM192</desc>
+</wpt>
+<wpt lat="36.090605" lon="-113.228022">
+<name>RM193</name>
+<cmt>RM193</cmt>
+<desc>RM193</desc>
+</wpt>
+<wpt lat="36.093637" lon="-113.245167">
+<name>RM194</name>
+<cmt>RM194</cmt>
+<desc>RM194</desc>
+</wpt>
+<wpt lat="36.090637" lon="-113.260895">
+<name>RM195</name>
+<cmt>RM195</cmt>
+<desc>RM195</desc>
+</wpt>
+<wpt lat="36.096406" lon="-113.276121">
+<name>RM196</name>
+<cmt>RM196</cmt>
+<desc>RM196</desc>
+</wpt>
+<wpt lat="36.096295" lon="-113.293310">
+<name>RM197</name>
+<cmt>RM197</cmt>
+<desc>RM197</desc>
+</wpt>
+<wpt lat="36.099881" lon="-113.309319">
+<name>RM198</name>
+<cmt>RM198</cmt>
+<desc>RM198</desc>
+</wpt>
+<wpt lat="36.092518" lon="-113.322785">
+<name>RM199</name>
+<cmt>RM199</cmt>
+<desc>RM199</desc>
+</wpt>
+<wpt lat="36.079365" lon="-113.326129">
+<name>RM200</name>
+<cmt>RM200</cmt>
+<desc>RM200</desc>
+</wpt>
+<wpt lat="36.066300" lon="-113.334226">
+<name>RM201</name>
+<cmt>RM201</cmt>
+<desc>RM201</desc>
+</wpt>
+<wpt lat="36.055895" lon="-113.346440">
+<name>RM202</name>
+<cmt>RM202</cmt>
+<desc>RM202</desc>
+</wpt>
+<wpt lat="36.043459" lon="-113.353662">
+<name>RM203</name>
+<cmt>RM203</cmt>
+<desc>RM203</desc>
+</wpt>
+<wpt lat="36.029447" lon="-113.351114">
+<name>RM204</name>
+<cmt>RM204</cmt>
+<desc>RM204</desc>
+</wpt>
+<wpt lat="36.014785" lon="-113.348681">
+<name>RM205</name>
+<cmt>RM205</cmt>
+<desc>RM205</desc>
+</wpt>
+<wpt lat="36.003022" lon="-113.339946">
+<name>RM206</name>
+<cmt>RM206</cmt>
+<desc>RM206</desc>
+</wpt>
+<wpt lat="35.988729" lon="-113.340722">
+<name>RM207</name>
+<cmt>RM207</cmt>
+<desc>RM207</desc>
+</wpt>
+<wpt lat="35.978363" lon="-113.330568">
+<name>RM208</name>
+<cmt>RM208</cmt>
+<desc>RM208</desc>
+</wpt>
+<wpt lat="35.970274" lon="-113.318221">
+<name>RM209</name>
+<cmt>RM209</cmt>
+<desc>RM209</desc>
+</wpt>
+<wpt lat="35.958094" lon="-113.321590">
+<name>RM210</name>
+<cmt>RM210</cmt>
+<desc>RM210</desc>
+</wpt>
+<wpt lat="35.946076" lon="-113.327757">
+<name>RM211</name>
+<cmt>RM211</cmt>
+<desc>RM211</desc>
+</wpt>
+<wpt lat="35.932247" lon="-113.326952">
+<name>RM212</name>
+<cmt>RM212</cmt>
+<desc>RM212</desc>
+</wpt>
+<wpt lat="35.919346" lon="-113.334020">
+<name>RM213</name>
+<cmt>RM213</cmt>
+<desc>RM213</desc>
+</wpt>
+<wpt lat="35.907394" lon="-113.327553">
+<name>RM214</name>
+<cmt>RM214</cmt>
+<desc>RM214</desc>
+</wpt>
+<wpt lat="35.896514" lon="-113.319657">
+<name>RM215</name>
+<cmt>RM215</cmt>
+<desc>RM215</desc>
+</wpt>
+<wpt lat="35.885679" lon="-113.309372">
+<name>RM216</name>
+<cmt>RM216</cmt>
+<desc>RM216</desc>
+</wpt>
+<wpt lat="35.872092" lon="-113.312831">
+<name>RM217</name>
+<cmt>RM217</cmt>
+<desc>RM217</desc>
+</wpt>
+<wpt lat="35.858241" lon="-113.313093">
+<name>RM218</name>
+<cmt>RM218</cmt>
+<desc>RM218</desc>
+</wpt>
+<wpt lat="35.846690" lon="-113.323120">
+<name>RM219</name>
+<cmt>RM219</cmt>
+<desc>RM219</desc>
+</wpt>
+<wpt lat="35.832385" lon="-113.326422">
+<name>RM220</name>
+<cmt>RM220</cmt>
+<desc>RM220</desc>
+</wpt>
+<wpt lat="35.821111" lon="-113.333265">
+<name>RM221</name>
+<cmt>RM221</cmt>
+<desc>RM221</desc>
+</wpt>
+<wpt lat="35.807518" lon="-113.331406">
+<name>RM222</name>
+<cmt>RM222</cmt>
+<desc>RM222</desc>
+</wpt>
+<wpt lat="35.794970" lon="-113.337014">
+<name>RM223</name>
+<cmt>RM223</cmt>
+<desc>RM223</desc>
+</wpt>
+<wpt lat="35.783440" lon="-113.347694">
+<name>RM224</name>
+<cmt>RM224</cmt>
+<desc>RM224</desc>
+</wpt>
+<wpt lat="35.774548" lon="-113.359909">
+<name>RM225</name>
+<cmt>RM225</cmt>
+<desc>RM225</desc>
+</wpt>
+<wpt lat="35.765527" lon="-113.374905">
+<name>RM226</name>
+<cmt>RM226</cmt>
+<desc>RM226</desc>
+</wpt>
+<wpt lat="36.367792" lon="-111.891288">
+<name>SADDLECNY</name>
+<cmt>SADDLE CANYON</cmt>
+<desc>SADDLE CANYON</desc>
+</wpt>
+<wpt lat="36.529218" lon="-111.833265">
+<name>SILVERGROT</name>
+<cmt>SILVER GROTTO</cmt>
+<desc>SILVER GROTTO</desc>
+</wpt>
+<wpt lat="36.500043" lon="-111.859125">
+<name>STANTONCAV</name>
+<cmt>STANTONS CAVE</cmt>
+<desc>STANTONS CAVE</desc>
+</wpt>
+<wpt lat="36.750308" lon="-111.677834">
+<name>TENMILERK</name>
+<cmt>TEN MILE ROCK</cmt>
+<desc>TEN MILE ROCK</desc>
+</wpt>
+<wpt lat="36.498965" lon="-111.858577">
+<name>VASEYPARAD</name>
+<cmt>VASEYS PARADISE</cmt>
+<desc>VASEYS PARADISE</desc>
+</wpt>
+<wpt lat="36.207474" lon="-113.060139">
+<name>VULCANANVL</name>
+<cmt>VULCAN'S ANVIL</cmt>
+<desc>VULCAN'S ANVIL</desc>
+</wpt>
+<wpt lat="36.218089" lon="-113.078037">
+<name>VULCANTHRN</name>
+<cmt>VULCAN'S THRONE</cmt>
+<desc>VULCAN'S THRONE</desc>
+</wpt>
+</gpx>
